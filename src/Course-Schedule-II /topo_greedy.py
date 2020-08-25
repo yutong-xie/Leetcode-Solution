@@ -5,34 +5,34 @@
     Using greedy algorithm verison topological sort to solve course schedule problem
  '''
 
+class Solution(object):
+    def findOrder(self, numCourses, prerequisites):
+            """
+            :type numCourses: int
+            :type prerequisites: List[List[int]]
+            :rtype: List[int]
+            """
 
-def findOrder(self, numCourses, prerequisites):
-        """
-        :type numCourses: int
-        :type prerequisites: List[List[int]]
-        :rtype: List[int]
-        """
+            indegree = [0]*numCourses
+            graph = [[] for i in range(numCourses)]
+            stack = []
+            result = []
 
-        indegree = [0]*numCourses
-        graph = [[] for i in range(numCourses)]
-        stack = []
-        result = []
-
-        for y,x in prerequisites:
-            indegree[y] += 1
-            graph[x].append(y)
+            for y,x in prerequisites:
+                indegree[y] += 1
+                graph[x].append(y)
 
 
-        for i in range(len(indegree)):
-            if indegree[i] == 0:
-                stack.append(i)
-
-        while len(stack) != 0:
-            v = stack.pop()
-            result.append(v)
-            for i in graph[v]:
-                indegree[i] -= 1
+            for i in range(len(indegree)):
                 if indegree[i] == 0:
                     stack.append(i)
 
-        return result if len(result) == numCourses else []
+            while len(stack) != 0:
+                v = stack.pop()
+                result.append(v)
+                for i in graph[v]:
+                    indegree[i] -= 1
+                    if indegree[i] == 0:
+                        stack.append(i)
+
+            return result if len(result) == numCourses else []
