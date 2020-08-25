@@ -5,11 +5,12 @@
     Using greedy algorithm verison topological sort to solve course schedule problem
  '''
 
-def canFinish(self, numCourses, prerequisites):
+
+def findOrder(self, numCourses, prerequisites):
         """
         :type numCourses: int
         :type prerequisites: List[List[int]]
-        :rtype: bool
+        :rtype: List[int]
         """
 
         indegree = [0]*numCourses
@@ -34,4 +35,4 @@ def canFinish(self, numCourses, prerequisites):
                 if indegree[i] == 0:
                     stack.append(i)
 
-        return True if len(result) == numCourses else False numCourses else False
+        return result if len(result) == numCourses else []
