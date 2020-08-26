@@ -5,11 +5,15 @@ All the code were written in **Python 2.7**. Each file contains solution for the
 
 
 
-**Progress: 3 Solutions**
+**Progress: 6 Solutions**
 
-| ID   | Title                                                        | Solution                                | Difficulty |
-| ---- | ------------------------------------------------------------ | --------------------------------------- | ---------- |
-| 207  | [Course Schedule](https://leetcode.com/problems/course-schedule/) | [Python](./src/Course-Schedule)         | Medium     |
-| 210  | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | [Python](./src/Course-Schedule-II)      | Medium     |
-| 444  | [Sequence Reconstruction](https://leetcode.com/problems/sequence-reconstruction/) | [Python](./src/Sequence-Reconstruction) | Medium     |
+| ID   | Title                                                        | Solution                                      | Difficulty | Related Topic       |
+| ---- | ------------------------------------------------------------ | --------------------------------------------- | ---------- | ------------------- |
+| 5    | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Python](./src/Longest-Palindromic-Substring) | Medium     | Dynamic Programming |
+| 91   | [Decode Ways](https://leetcode.com/problems/decode-ways/)    | [Python](./src/Decode-Ways)                   | Medium     | Dynamic Programming |
+| 207  | [Course Schedule](https://leetcode.com/problems/course-schedule/) | [Python](./src/Course-Schedule)               | Medium     | Topological Sorting |
+| 210  | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | [Python](./src/Course-Schedule-II)            | Medium     | Topological Sorting |
+| 322  | [Coin Change](https://leetcode.com/problems/coin-change/)    | [Python](./src/Coin-Change)                   | Medium     | Dynamic Programming |
+| 444  | [Sequence Reconstruction](https://leetcode.com/problems/sequence-reconstruction/) | [Python](./src/Sequence-Reconstruction)       | Medium     | Topological Sorting |
+|      |                                                              |                                               |            |                     |
 
