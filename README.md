@@ -5,7 +5,7 @@ All the code were written in **Python 2.7**. Each file contains solution for the
 
 
 
-**Progress: 6 Solutions**
+**Progress: 7 Solutions**
 
 | ID   | Title                                                        | Solution                                      | Difficulty | Related Topic       |
 | ---- | ------------------------------------------------------------ | --------------------------------------------- | ---------- | ------------------- |
