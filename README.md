@@ -5,12 +5,13 @@ All the code were written in **Python 2.7**. Each file contains solution for the
 
 
 
-**Progress: 8 Solutions**
+**Progress: 9 Solutions**
 
 | ID   | Title                                                        | Solution                                      | Difficulty | Related Topic       |
 | ---- | ------------------------------------------------------------ | --------------------------------------------- | ---------- | ------------------- |
 | 5    | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Python](./src/Longest-Palindromic-Substring) | Medium     | Dynamic Programming |
 | 91   | [Decode Ways](https://leetcode.com/problems/decode-ways/)    | [Python](./src/Decode-Ways)                   | Medium     | Dynamic Programming |
+| 98   | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Python](./src/Validate-Binary-Search-Tree)   | Medium     | Binary Search Tree  |
 | 152  | [Maximuim Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [Python](./src/Maximum-Product-Subarray)      | Medium     | Dynamic Programming |
 | 207  | [Course Schedule](https://leetcode.com/problems/course-schedule/) | [Python](./src/Course-Schedule)               | Medium     | Topological Sorting |
 | 210  | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | [Python](./src/Course-Schedule-II)            | Medium     | Topological Sorting |
