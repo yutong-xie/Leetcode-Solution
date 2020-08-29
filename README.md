@@ -5,7 +5,7 @@ All the code were written in **Python 2.7**. Each file contains solution for the
 
 
 
-**Progress: 9 Solutions**
+**Progress: 10 Solutions**
 
 | ID   | Title                                                        | Solution                                      | Difficulty | Related Topic       |
 | ---- | ------------------------------------------------------------ | --------------------------------------------- | ---------- | ------------------- |
@@ -16,6 +16,7 @@ All the code were written in **Python 2.7**. Each file contains solution for the
 | 207  | [Course Schedule](https://leetcode.com/problems/course-schedule/) | [Python](./src/Course-Schedule)               | Medium     | Topological Sorting |
 | 210  | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | [Python](./src/Course-Schedule-II)            | Medium     | Topological Sorting |
 | 221  | [Maximal Square](https://leetcode.com/problems/maximal-square/) | [Python](./src/Maximal-Square)                | Medium     | Dynamic Programming |
+| 258  | [Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/) | [Python](./src/Inorder-Successor-in-BST)      | Medium     | Binary Search Tree  |
 | 322  | [Coin Change](https://leetcode.com/problems/coin-change/)    | [Python](./src/Coin-Change)                   | Medium     | Dynamic Programming |
 | 444  | [Sequence Reconstruction](https://leetcode.com/problems/sequence-reconstruction/) | [Python](./src/Sequence-Reconstruction)       | Medium     | Topological Sorting |
 |      |                                                              |                                               |            |                     |
