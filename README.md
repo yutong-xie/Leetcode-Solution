@@ -5,7 +5,7 @@ All the code were written in **Python 2.7**. Each file contains solution for the
 
 
 
-**Progress: 13 Solutions**
+**Progress: 14 Solutions**
 
 | ID   | Title                                                        | Solution                                       | Difficulty | Related Topic       |
 | ---- | ------------------------------------------------------------ | ---------------------------------------------- | ---------- | ------------------- |
@@ -22,5 +22,6 @@ All the code were written in **Python 2.7**. Each file contains solution for the
 | 322  | [Coin Change](https://leetcode.com/problems/coin-change/)    | [Python](./src/Coin-Change)                    | Medium     | Dynamic Programming |
 | 444  | [Sequence Reconstruction](https://leetcode.com/problems/sequence-reconstruction/) | [Python](./src/Sequence-Reconstruction)        | Medium     | Topological Sorting |
 | 700  | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [Python](./src/Search-in-a-Binary-Search-Tree) | Easy       | Binary Search Tree  |
+| 701  | [Insert into a Binary Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | [Python](./src/)                               |            |                     |
 
 ​	
