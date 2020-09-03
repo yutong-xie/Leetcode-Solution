@@ -5,12 +5,13 @@ All the code were written in **Python 2.7**. Each file contains solution for the
 
 
 
-**Progress: 18 Solutions**
+**Progress: 19 solutions**
 
 | ID   | Title                                                        | Solution                                         | Difficulty | Related Topic       |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------ | ---------- | ------------------- |
 | 5    | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Python](./src/Longest-Palindromic-Substring)    | Medium     | Dynamic Programming |
 | 91   | [Decode Ways](https://leetcode.com/problems/decode-ways/)    | [Python](./src/Decode-Ways)                      | Medium     | Dynamic Programming |
+| 92   | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | [Python](./src/Reverse-Linked-List-II)           | Medium     | Linked List         |
 | 94   | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Python](./src/Binary-Tree-Inorder-Traversal)    | Medium     | Binary Tree         |
 | 98   | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Python](./src/Validate-Binary-Search-Tree)      | Medium     | Binary Search Tree  |
 | 152  | [Maximuim Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [Python](./src/Maximum-Product-Subarray)         | Medium     | Dynamic Programming |
