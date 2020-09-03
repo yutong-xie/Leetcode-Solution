@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 '''
     Copyright 2020, Yutong Xie, UIUC.
-    Using to stack to implement a min stack. 
+    Using two stack to implement a min stack. 
  '''
 
 
