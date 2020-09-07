@@ -5,11 +5,13 @@ All the code were written in **Python 2.7**. Each file contains solution for the
 
 
 
-**Progress: 26 solutions**
+**Progress: 29 solutions**
 
 | ID   | Title                                                        | Solution                                                     | Difficulty | Related Topic             |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ------------------------- |
 | 5    | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Python](./src/Longest-Palindromic-Substring)                | Medium     | Dynamic Programming       |
+| 46   | [Permutations](https://leetcode.com/problems/permutations/)  | [Python](./src/Permutations)                                 | Medium     | Backtracking              |
+| 53   | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Python](./src/Maximum-Subarray)                             | Easy       | Greedy Algorithm          |
 | 54   | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [Python](./src/Spiral-Matrix)                                | Medium     | Array                     |
 | 91   | [Decode Ways](https://leetcode.com/problems/decode-ways/)    | [Python](./src/Decode-Ways)                                  | Medium     | Dynamic Programming       |
 | 92   | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | [Python](./src/Reverse-Linked-List-II)                       | Medium     | Linked List               |
@@ -30,6 +32,7 @@ All the code were written in **Python 2.7**. Each file contains solution for the
 | 221  | [Maximal Square](https://leetcode.com/problems/maximal-square/) | [Python](./src/Maximal-Square)                               | Medium     | Dynamic Programming       |
 | 258  | [Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/) | [Python](./src/Inorder-Successor-in-BST)                     | Medium     | Binary Search Tree        |
 | 322  | [Coin Change](https://leetcode.com/problems/coin-change/)    | [Python](./src/Coin-Change)                                  | Medium     | Dynamic Programming       |
+| 401  | [Binary Watch](https://leetcode.com/problems/binary-watch/)  | [Python](./src/Binary-Watch)                                 | Easy       | Backtracking              |
 | 444  | [Sequence Reconstruction](https://leetcode.com/problems/sequence-reconstruction/) | [Python](./src/Sequence-Reconstruction)                      | Medium     | Topological Sorting       |
 | 450  | [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | [Python](./src/Delete-Node-in-a-BST)                         | Medium     | Binary Search Tree        |
 | 700  | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [Python](./src/Search-in-a-Binary-Search-Tree)               | Easy       | Binary Search Tree        |
