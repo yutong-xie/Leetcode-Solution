@@ -5,11 +5,13 @@ All the code were written in **Python 2.7**. Each file contains solution for the
 
 
 
-**Progress: 29 solutions**
+**Progress: 31 solutions**
 
 | ID   | Title                                                        | Solution                                                     | Difficulty | Related Topic             |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ------------------------- |
 | 5    | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Python](./src/Longest-Palindromic-Substring)                | Medium     | Dynamic Programming       |
+| 17   | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Python](./src/Letter-Combinations-of-a-Phone-Number)        | Medium     | Backtracking              |
+| 22   | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Python](./src/Best-Time-to-Buy-and-Sell-Stock)              | Easy       | Dynamic Programming       |
 | 46   | [Permutations](https://leetcode.com/problems/permutations/)  | [Python](./src/Permutations)                                 | Medium     | Backtracking              |
 | 53   | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Python](./src/Maximum-Subarray)                             | Easy       | Greedy Algorithm          |
 | 54   | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [Python](./src/Spiral-Matrix)                                | Medium     | Array                     |
@@ -19,6 +21,7 @@ All the code were written in **Python 2.7**. Each file contains solution for the
 | 98   | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Python](./src/Validate-Binary-Search-Tree)                  | Medium     | Binary Search Tree        |
 | 100  | [Same Tree](https://leetcode.com/problems/same-tree/)        | [Python](./src/Same_Tree)                                    | Easy       | Tree                      |
 | 108  | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Python](./src/Converted-Sorted-Array-to-Binary_search-Tree) | Easy       | Binary Search Tree        |
+| 122  | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Python](./src/Best-Time-to-Buy-and-Sell-Stock-II)           | Easy       | Greedy                    |
 | 141  | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Python](./src/Linked-List-Cycel)                            | Easy       | Hashmap/Fast Slow Pointer |
 | 151  | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [Python](./src/Reverse-Words-in-a-String)                    | Medium     | String                    |
 | 152  | [Maximuim Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [Python](./src/Maximum-Product-Subarray)                     | Medium     | Dynamic Programming       |
