@@ -5,7 +5,7 @@ All the code were written in **Python 2.7**. Each file contains solution for the
 
 
 
-**Progress: 36 solutions**
+**Progress: 37 solutions**
 
 | ID   | Title                                                        | Solution                                                     | Difficulty | Related Topic             |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ------------------------- |
@@ -32,6 +32,7 @@ All the code were written in **Python 2.7**. Each file contains solution for the
 | 173  | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | [Python](./src/Binary-Search-Tree-Iteator)                   | Medium     | Binary Search Tree        |
 | 188  | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) | [Python](./src/Best-Time-to-But-and-Sell-Stock-IV)           | Hard       | DP/ One pass              |
 | 198  | [House Robber](https://leetcode.com/problems/house-robber/)  | [Python](./src/House-Robber)                                 | Ease       | Dynamic Programming       |
+| 200  | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Python](./src/Number-of-Islands)                            | Medium     | DFS/Union find            |
 | 206  | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Python](./src/Reverse-Linked-List)                          | Easy       | Linked List               |
 | 207  | [Course Schedule](https://leetcode.com/problems/course-schedule/) | [Python](./src/Course-Schedule)                              | Medium     | Topological Sorting       |
 | 210  | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | [Python](./src/Course-Schedule-II)                           | Medium     | Topological Sorting       |
