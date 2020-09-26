@@ -5,14 +5,15 @@ All the code were written in **Python 2.7**. Each file contains solution for the
 
 
 
-**Progress: 39 solutions**
+**Progress: 40 solutions**
 
 | ID   | Title                                                        | Solution                                                     | Difficulty | Related Topic             |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ------------------------- |
 | 5    | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Python](./src/Longest-Palindromic-Substring)                | Medium     | Dynamic Programming       |
 | 17   | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Python](./src/Letter-Combinations-of-a-Phone-Number)        | Medium     | Backtracking              |
-| 22   | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Python](./src/Generate-Parenthses)                          | Medium     | Backtracking              |
 | 21   | [Merge two sorted lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Python](./src/Merge-Two-Sorted-Lists)                       | Easy       | Linked List               |
+| 22   | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Python](./src/Generate-Parenthses)                          | Medium     | Backtracking              |
+| 23   | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Python](./src/Merge-k-Sorted-Lists)                         | Hard       | Divide and Conquer/heapq  |
 | 46   | [Permutations](https://leetcode.com/problems/permutations/)  | [Python](./src/Permutations)                                 | Medium     | Backtracking              |
 | 53   | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Python](./src/Maximum-Subarray)                             | Easy       | Greedy Algorithm          |
 | 54   | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [Python](./src/Spiral-Matrix)                                | Medium     | Array                     |
