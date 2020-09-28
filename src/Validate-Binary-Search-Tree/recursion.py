@@ -31,6 +31,7 @@ class Solution(object):
 
             if not helper(node.right, val, upper)            :
                 return False
+                
             return True
 
         return helper(root)
