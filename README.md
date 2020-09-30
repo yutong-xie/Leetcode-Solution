@@ -5,7 +5,7 @@ All the code were written in **Python 2.7**. Each file contains solution for the
 
 
 
-**Progress: 46 solutions**
+**Progress: 47 solutions**
 
 | ID   | Title                                                        | Solution                                                     | Difficulty | Related Topic             |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ------------------------- |
@@ -40,6 +40,7 @@ All the code were written in **Python 2.7**. Each file contains solution for the
 | 206  | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Python](./src/Reverse-Linked-List)                          | Easy       | Linked List               |
 | 207  | [Course Schedule](https://leetcode.com/problems/course-schedule/) | [Python](./src/Course-Schedule)                              | Medium     | Topological Sorting       |
 | 210  | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | [Python](./src/Course-Schedule-II)                           | Medium     | Topological Sorting       |
+| 216  | [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | [Python](./src/Combination-Sum-III)                          | Medium     | Back tracking             |
 | 221  | [Maximal Square](https://leetcode.com/problems/maximal-square/) | [Python](./src/Maximal-Square)                               | Medium     | Dynamic Programming       |
 | 235  | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Python](./src/Lowest-Common-Ancestor-of-a-Binary-Search-Tree) | Easy       | Binary Search Tree        |
 | 236  | [Lowest-Common-Ancestor-of-a-Binary-Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [Python](./src/Lowest-Common-Ancestor-of-a-Binary-Tree)      | Medium     | Parent Pointer/Tree       |
