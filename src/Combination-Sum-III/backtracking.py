@@ -14,7 +14,7 @@
         """
         if k >= n:
             return []
-        
+
         com = []
 
         def backtrack(nums, n, k, start):
