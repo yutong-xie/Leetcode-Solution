@@ -5,7 +5,7 @@ All the code were written in **Python 2.7**. Each file contains solution for the
 
 
 
-**Progress: 48 solutions**
+**Progress: 51 solutions**
 
 | ID   | Title                                                        | Solution                                                     | Difficulty | Related Topic                      |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ---------------------------------- |
@@ -15,9 +15,12 @@ All the code were written in **Python 2.7**. Each file contains solution for the
 | 21   | [Merge two sorted lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Python](./src/Merge-Two-Sorted-Lists)                       | Easy       | Linked List                        |
 | 22   | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Python](./src/Generate-Parenthses)                          | Medium     | Backtracking                       |
 | 23   | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Python](./src/Merge-k-Sorted-Lists)                         | Hard       | Divide and Conquer/heapq           |
+| 42   | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Python](./src/Trapping-Rain-Water)                          | Hard       | Dynamic Programming                |
 | 46   | [Permutations](https://leetcode.com/problems/permutations/)  | [Python](./src/Permutations)                                 | Medium     | Backtracking                       |
 | 53   | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Python](./src/Maximum-Subarray)                             | Easy       | Greedy Algorithm                   |
 | 54   | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [Python](./src/Spiral-Matrix)                                | Medium     | Array                              |
+| 76   | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [Python](./src/Minimum-Window-Substring)                     | Hard       | Sliding Window                     |
+| 79   | [Word Search](https://leetcode.com/problems/word-search/)    | [Python](./src/Wrod-Search)                                  | Medium     | Back tracking                      |
 | 91   | [Decode Ways](https://leetcode.com/problems/decode-ways/)    | [Python](./src/Decode-Ways)                                  | Medium     | Dynamic Programming                |
 | 92   | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | [Python](./src/Reverse-Linked-List-II)                       | Medium     | Linked List                        |
 | 94   | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Python](./src/Binary-Tree-Inorder-Traversal)                | Medium     | Binary Tree                        |
