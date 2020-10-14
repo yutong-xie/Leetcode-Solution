@@ -5,7 +5,7 @@ All the code were written in **Python 2.7**. Each file contains solution for the
 
 
 
-**Progress: 51 solutions**
+**Progress: 52 solutions**
 
 | ID   | Title                                                        | Solution                                                     | Difficulty | Related Topic                      |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ---------------------------------- |
@@ -30,6 +30,7 @@ All the code were written in **Python 2.7**. Each file contains solution for the
 | 121  | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Python](./src/Best-Time-to-Buy-and-Sell-Stock)              | Easy       | Dynamic Programming                |
 | 122  | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Python](./src/Best-Time-to-Buy-and-Sell-Stock-II)           | Easy       | Greedy                             |
 | 123  | [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) | [Python](./src/Best-Time-to-Buy-and-Sell-Stock-III)          | Hard       | Bidirectional DP/One pass          |
+| 127  | [Word Ladder](https://leetcode.com/problems/word-ladder/)    | [Python](./src/Word-Ladder)                                  | Medium     | BFS                                |
 | 133  | [Clone Graph](https://leetcode.com/problems/clone-graph/)    | [Python](./src/Clone-Graph)                                  | Medium     | DFS                                |
 | 141  | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Python](./src/Linked-List-Cycel)                            | Easy       | Hashmap/Fast Slow Pointer          |
 | 146  | [LRU Cache](https://leetcode.com/problems/lru-cache/)        | [Python](./src/LRU-Cache)                                    | Medium     | OrderedDictionary/DoubleLinkedList |
