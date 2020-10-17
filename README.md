@@ -5,7 +5,7 @@ All the code were written in **Python 2.7**. Each file contains solution for the
 
 
 
-**Progress: 54 solutions**
+**Progress: 56 solutions**
 
 | ID   | Title                                                        | Solution                                                     | Difficulty | Related Topic                      |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ---------------------------------- |
@@ -15,6 +15,7 @@ All the code were written in **Python 2.7**. Each file contains solution for the
 | 21   | [Merge two sorted lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Python](./src/Merge-Two-Sorted-Lists)                       | Easy       | Linked List                        |
 | 22   | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Python](./src/Generate-Parenthses)                          | Medium     | Backtracking                       |
 | 23   | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Python](./src/Merge-k-Sorted-Lists)                         | Hard       | Divide and Conquer/heapq           |
+| 34   | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Python](./src/Find-First-and-Last-Position-of-Element-in-Sorted-Array) | Medium     | Binary Search                      |
 | 42   | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Python](./src/Trapping-Rain-Water)                          | Hard       | Dynamic Programming                |
 | 46   | [Permutations](https://leetcode.com/problems/permutations/)  | [Python](./src/Permutations)                                 | Medium     | Backtracking                       |
 | 48   | [Rotate Image](https://leetcode.com/problems/rotate-image/)  | [Python](./src/Rotate-Image)                                 | Medium     | Array                              |
@@ -52,6 +53,7 @@ All the code were written in **Python 2.7**. Each file contains solution for the
 | 236  | [Lowest-Common-Ancestor-of-a-Binary-Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [Python](./src/Lowest-Common-Ancestor-of-a-Binary-Tree)      | Medium     | Parent Pointer/Tree                |
 | 269  | [Alien Dictionary](https://leetcode.com/problems/alien-dictionary/) | [Python](./src/Alien-Dictionary)                             | Hard       | Topological Sort                   |
 | 285  | [Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/) | [Python](./src/Inorder-Successor-in-BST)                     | Medium     | Binary Search Tree                 |
+| 300  | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [Python](./src/Longest-Increasing-Subsequence)               | Medium     | Dynamic Programming/Binary Search  |
 | 322  | [Coin Change](https://leetcode.com/problems/coin-change/)    | [Python](./src/Coin-Change)                                  | Medium     | Dynamic Programming                |
 | 347  | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Python](./src/Top-K-Frequent-Elements)                      | Medium     | Heap                               |
 | 401  | [Binary Watch](https://leetcode.com/problems/binary-watch/)  | [Python](./src/Binary-Watch)                                 | Easy       | Backtracking                       |
