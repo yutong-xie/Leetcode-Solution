@@ -5,7 +5,7 @@ All the code were written in **Python 2.7**. Each file contains solution for the
 
 
 
-**Progress: 56 solutions**
+**Progress: 58 solutions**
 
 | ID   | Title                                                        | Solution                                                     | Difficulty | Related Topic                      |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ---------------------------------- |
@@ -16,6 +16,7 @@ All the code were written in **Python 2.7**. Each file contains solution for the
 | 22   | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Python](./src/Generate-Parenthses)                          | Medium     | Backtracking                       |
 | 23   | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Python](./src/Merge-k-Sorted-Lists)                         | Hard       | Divide and Conquer/heapq           |
 | 34   | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Python](./src/Find-First-and-Last-Position-of-Element-in-Sorted-Array) | Medium     | Binary Search                      |
+| 41   | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [Python](./src/First-Missing-Positive)                       | Hard       | Array                              |
 | 42   | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Python](./src/Trapping-Rain-Water)                          | Hard       | Dynamic Programming                |
 | 46   | [Permutations](https://leetcode.com/problems/permutations/)  | [Python](./src/Permutations)                                 | Medium     | Backtracking                       |
 | 48   | [Rotate Image](https://leetcode.com/problems/rotate-image/)  | [Python](./src/Rotate-Image)                                 | Medium     | Array                              |
@@ -28,6 +29,7 @@ All the code were written in **Python 2.7**. Each file contains solution for the
 | 94   | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Python](./src/Binary-Tree-Inorder-Traversal)                | Medium     | Binary Tree                        |
 | 98   | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Python](./src/Validate-Binary-Search-Tree)                  | Medium     | Binary Search Tree                 |
 | 100  | [Same Tree](https://leetcode.com/problems/same-tree/)        | [Python](./src/Same_Tree)                                    | Easy       | Tree                               |
+| 103  | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [Python](./src/Binary-Tree-Zigzag-Level-Order-Traversal)     | Medium     | BFS                                |
 | 108  | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Python](./src/Converted-Sorted-Array-to-Binary_search-Tree) | Easy       | Binary Search Tree                 |
 | 121  | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Python](./src/Best-Time-to-Buy-and-Sell-Stock)              | Easy       | Dynamic Programming                |
 | 122  | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Python](./src/Best-Time-to-Buy-and-Sell-Stock-II)           | Easy       | Greedy                             |
