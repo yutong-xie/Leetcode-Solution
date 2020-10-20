@@ -5,7 +5,7 @@ All the code were written in **Python 2.7**. Each file contains solution for the
 
 
 
-**Progress: 58 solutions**
+**Progress: 59 solutions**
 
 | ID   | Title                                                        | Solution                                                     | Difficulty | Related Topic                      |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ---------------------------------- |
@@ -61,6 +61,7 @@ All the code were written in **Python 2.7**. Each file contains solution for the
 | 401  | [Binary Watch](https://leetcode.com/problems/binary-watch/)  | [Python](./src/Binary-Watch)                                 | Easy       | Backtracking                       |
 | 444  | [Sequence Reconstruction](https://leetcode.com/problems/sequence-reconstruction/) | [Python](./src/Sequence-Reconstruction)                      | Medium     | Topological Sorting                |
 | 450  | [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | [Python](./src/Delete-Node-in-a-BST)                         | Medium     | Binary Search Tree                 |
+| 516  | [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) | [Python](./src/Longest-Palindromic-Subsequence)              | Medium     | Dynamic Programming                |
 | 692  | [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | [Python](./src/Top-K-Frequent-Words)                         | Medium     | Counter                            |
 | 700  | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [Python](./src/Search-in-a-Binary-Search-Tree)               | Easy       | Binary Search Tree                 |
 | 701  | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | [Python](./src/Insert-into-a-Binary-Search-Tree)             | Medium     | Binary Search Tree                 |
