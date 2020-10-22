@@ -5,7 +5,7 @@ All the code were written in **Python 2.7**. Each file contains solution for the
 
 
 
-**Progress: 59 solutions**
+**Progress: 61 solutions**
 
 | ID   | Title                                                        | Solution                                                     | Difficulty | Related Topic                      |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ---------------------------------- |
@@ -37,13 +37,15 @@ All the code were written in **Python 2.7**. Each file contains solution for the
 | 127  | [Word Ladder](https://leetcode.com/problems/word-ladder/)    | [Python](./src/Word-Ladder)                                  | Medium     | BFS                                |
 | 133  | [Clone Graph](https://leetcode.com/problems/clone-graph/)    | [Python](./src/Clone-Graph)                                  | Medium     | DFS                                |
 | 141  | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Python](./src/Linked-List-Cycel)                            | Easy       | Hashmap/Fast Slow Pointer          |
+| 144  | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Python](./src/Binary-Tree-Preorder-Traversal)               | Medium     | Binary Tree                        |
+| 145  | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [Python](./src/Binary-Tree-Postorder-Traversal)              | Medium     | Binary Tree                        |
 | 146  | [LRU Cache](https://leetcode.com/problems/lru-cache/)        | [Python](./src/LRU-Cache)                                    | Medium     | OrderedDictionary/DoubleLinkedList |
 | 151  | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [Python](./src/Reverse-Words-in-a-String)                    | Medium     | String                             |
 | 152  | [Maximuim Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [Python](./src/Maximum-Product-Subarray)                     | Medium     | Dynamic Programming                |
 | 155  | [Min Stack](https://leetcode.com/problems/min-stack/)        | [Python](./src/Min-Stack)                                    | Easy       | Stack                              |
 | 160  | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Python](./src/Intersection-of-Two-Linked-Lists)             | Easy       | Linked List                        |
 | 173  | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | [Python](./src/Binary-Search-Tree-Iteator)                   | Medium     | Binary Search Tree                 |
-| 188  | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) | [Python](./src/Best-Time-to-But-and-Sell-Stock-IV)           | Hard       | DP/ One pass                       |
+| 188  | [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) | [Python](./src/Best-Time-to-But-and-Sell-Stock-IV)           | Hard       | DP/ One pass                       |
 | 198  | [House Robber](https://leetcode.com/problems/house-robber/)  | [Python](./src/House-Robber)                                 | Ease       | Dynamic Programming                |
 | 200  | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Python](./src/Number-of-Islands)                            | Medium     | DFS/Union find                     |
 | 206  | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Python](./src/Reverse-Linked-List)                          | Easy       | Linked List                        |
