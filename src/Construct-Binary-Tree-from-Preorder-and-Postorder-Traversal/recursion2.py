@@ -35,7 +35,6 @@ class Solution(object):
             left_val = curr_pre[1]
             L = curr_post.index(left_val) + 1
 
-                    "
 
             root.left = helper(pre_index+1, post_index, L)
             root.right = helper(pre_index+L+1, post_index+L, N-L-1)
