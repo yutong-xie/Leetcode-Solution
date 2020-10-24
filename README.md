@@ -5,7 +5,7 @@ All the code were written in **Python 2.7 or Python 3** . Each file contains sol
 
 
 
-**Progress: 66 solutions**
+**Progress: 69 solutions**
 
 | ID   | Title                                                        | Solution                                                     | Difficulty | Related Topic                      |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ---------------------------------- |
@@ -67,12 +67,14 @@ All the code were written in **Python 2.7 or Python 3** . Each file contains sol
 | 401  | [Binary Watch](https://leetcode.com/problems/binary-watch/)  | [Python](./src/Binary-Watch)                                 | Easy       | Backtracking                       |
 | 444  | [Sequence Reconstruction](https://leetcode.com/problems/sequence-reconstruction/) | [Python](./src/Sequence-Reconstruction)                      | Medium     | Topological Sorting                |
 | 450  | [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | [Python](./src/Delete-Node-in-a-BST)                         | Medium     | Binary Search Tree                 |
+| 515  | [Find Largest value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) | [Python](./src/Find-Largest-Value-in-Each-Tree-Row)          | Medium     | BFS                                |
 | 516  | [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) | [Python](./src/Longest-Palindromic-Subsequence)              | Medium     | Dynamic Programming                |
 | 692  | [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | [Python](./src/Top-K-Frequent-Words)                         | Medium     | Counter                            |
 | 700  | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [Python](./src/Search-in-a-Binary-Search-Tree)               | Easy       | Binary Search Tree                 |
 | 701  | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | [Python](./src/Insert-into-a-Binary-Search-Tree)             | Medium     | Binary Search Tree                 |
 | 703  | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | [Python](./src/Kth-Largest-Element-in-a-Stream)              | Easy       | BST/Heapq                          |
 | 740  | [Binary Search](https://leetcode.com/problems/binary-search/) | [Python](./src/Binary-Search)                                | Easy       | Binary Search                      |
+| 797  | [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/) | [Python](./src/All-Paths-From-Source-to-Target)              | Medium     | Backtracking                       |
 | 863  | [All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) | [Python](./src/All-Nodes-Distance-K-in-Binary_tree)          | Medium     | Binary Tree/Graph                  |
 | 889  | [Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/) | [Python](./src/Construct-Binary-Tree-from-Preorder-and-Postorder-Traversal) | Medium     | Binary Tree                        |
 
