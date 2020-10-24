@@ -1,11 +1,11 @@
 # Leetcode-with-python
 
 This is the solutions collection of my LeetCode submissions, most of them are programmed in Python. 
-All the code were written in **Python 2.7**. Each file contains solution for the particular problem, some questions may involve several different solutions. And necessary explanation was added to the file. 
+All the code were written in **Python 2.7 or Python 3** . Each file contains solution for the particular problem, some questions may involve several different solutions. And necessary explanation was added to the file. 
 
 
 
-**Progress: 64 solutions**
+**Progress: 66 solutions**
 
 | ID   | Title                                                        | Solution                                                     | Difficulty | Related Topic                      |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ---------------------------------- |
@@ -57,6 +57,8 @@ All the code were written in **Python 2.7**. Each file contains solution for the
 | 221  | [Maximal Square](https://leetcode.com/problems/maximal-square/) | [Python](./src/Maximal-Square)                               | Medium     | Dynamic Programming                |
 | 235  | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Python](./src/Lowest-Common-Ancestor-of-a-Binary-Search-Tree) | Easy       | Binary Search Tree                 |
 | 236  | [Lowest-Common-Ancestor-of-a-Binary-Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [Python](./src/Lowest-Common-Ancestor-of-a-Binary-Tree)      | Medium     | Parent Pointer/Tree                |
+| 257  | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | [Python](./src/Binary-Tree-Paths)                            | Easy       | DFS                                |
+| 261  | [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/) | [Python](./src/Graph-Valid-Tree)                             | Medium     | DFS+Graph                          |
 | 269  | [Alien Dictionary](https://leetcode.com/problems/alien-dictionary/) | [Python](./src/Alien-Dictionary)                             | Hard       | Topological Sort                   |
 | 285  | [Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/) | [Python](./src/Inorder-Successor-in-BST)                     | Medium     | Binary Search Tree                 |
 | 300  | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [Python](./src/Longest-Increasing-Subsequence)               | Medium     | Dynamic Programming/Binary Search  |
