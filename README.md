@@ -5,7 +5,7 @@ All the code were written in **Python 2.7 or Python 3** . Each file contains sol
 
 
 
-**Progress: 69 solutions**
+**Progress: 72 solutions**
 
 | ID   | Title                                                        | Solution                                                     | Difficulty | Related Topic                      |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ---------------------------------- |
@@ -15,6 +15,7 @@ All the code were written in **Python 2.7 or Python 3** . Each file contains sol
 | 21   | [Merge two sorted lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Python](./src/Merge-Two-Sorted-Lists)                       | Easy       | Linked List                        |
 | 22   | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Python](./src/Generate-Parenthses)                          | Medium     | Backtracking                       |
 | 23   | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Python](./src/Merge-k-Sorted-Lists)                         | Hard       | Divide and Conquer/heapq           |
+| 33   | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Python](./src/Search-in-Rotated-Sorted-Array)               | Medium     | Binary Search                      |
 | 34   | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Python](./src/Find-First-and-Last-Position-of-Element-in-Sorted-Array) | Medium     | Binary Search                      |
 | 41   | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [Python](./src/First-Missing-Positive)                       | Hard       | Array                              |
 | 42   | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Python](./src/Trapping-Rain-Water)                          | Hard       | Dynamic Programming                |
@@ -64,9 +65,11 @@ All the code were written in **Python 2.7 or Python 3** . Each file contains sol
 | 300  | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [Python](./src/Longest-Increasing-Subsequence)               | Medium     | Dynamic Programming/Binary Search  |
 | 322  | [Coin Change](https://leetcode.com/problems/coin-change/)    | [Python](./src/Coin-Change)                                  | Medium     | Dynamic Programming                |
 | 347  | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Python](./src/Top-K-Frequent-Elements)                      | Medium     | Heap                               |
+| 384  | [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/) | [Python](./src/Shuffle-an-Array)                             | Medium     | Array                              |
 | 401  | [Binary Watch](https://leetcode.com/problems/binary-watch/)  | [Python](./src/Binary-Watch)                                 | Easy       | Backtracking                       |
 | 444  | [Sequence Reconstruction](https://leetcode.com/problems/sequence-reconstruction/) | [Python](./src/Sequence-Reconstruction)                      | Medium     | Topological Sorting                |
 | 450  | [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | [Python](./src/Delete-Node-in-a-BST)                         | Medium     | Binary Search Tree                 |
+| 490  | [The Maze](https://leetcode.com/problems/the-maze/)          | [Python](./src/The-Maze)                                     | Medium     | BFS                                |
 | 515  | [Find Largest value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) | [Python](./src/Find-Largest-Value-in-Each-Tree-Row)          | Medium     | BFS                                |
 | 516  | [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) | [Python](./src/Longest-Palindromic-Subsequence)              | Medium     | Dynamic Programming                |
 | 692  | [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | [Python](./src/Top-K-Frequent-Words)                         | Medium     | Counter                            |
@@ -77,6 +80,7 @@ All the code were written in **Python 2.7 or Python 3** . Each file contains sol
 | 797  | [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/) | [Python](./src/All-Paths-From-Source-to-Target)              | Medium     | Backtracking                       |
 | 863  | [All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) | [Python](./src/All-Nodes-Distance-K-in-Binary_tree)          | Medium     | Binary Tree/Graph                  |
 | 889  | [Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/) | [Python](./src/Construct-Binary-Tree-from-Preorder-and-Postorder-Traversal) | Medium     | Binary Tree                        |
+| 1302 | [Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/) | [Python](./src/Deepest-Leaves-Sum)                           | Medium     | BFS                                |
 
 ​	
 
