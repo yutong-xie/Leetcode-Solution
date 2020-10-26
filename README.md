@@ -5,7 +5,7 @@ All the code were written in **Python 2.7 or Python 3** . Each file contains sol
 
 
 
-**Progress: 72 solutions**
+**Progress: 74 solutions**
 
 | ID   | Title                                                        | Solution                                                     | Difficulty | Related Topic                      |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ---------------------------------- |
@@ -34,6 +34,7 @@ All the code were written in **Python 2.7 or Python 3** . Each file contains sol
 | 105  | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [Python](./src/Construct-Binary-Tree-from-Preorder-and-Inorder-Traversal) | Medium     | Binary Tree                        |
 | 106  | [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | [Python](./src/Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal) | Medium     | Binary Tree                        |
 | 108  | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Python](./src/Converted-Sorted-Array-to-Binary_search-Tree) | Easy       | Binary Search Tree                 |
+| 109  | [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | [Python](./src/Converted-Sorted-List-to-Binary_search-Tree)  | Medium     | Binary Search Tree                 |
 | 121  | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Python](./src/Best-Time-to-Buy-and-Sell-Stock)              | Easy       | Dynamic Programming                |
 | 122  | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Python](./src/Best-Time-to-Buy-and-Sell-Stock-II)           | Easy       | Greedy                             |
 | 123  | [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) | [Python](./src/Best-Time-to-Buy-and-Sell-Stock-III)          | Hard       | Bidirectional DP/One pass          |
@@ -77,6 +78,7 @@ All the code were written in **Python 2.7 or Python 3** . Each file contains sol
 | 701  | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | [Python](./src/Insert-into-a-Binary-Search-Tree)             | Medium     | Binary Search Tree                 |
 | 703  | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | [Python](./src/Kth-Largest-Element-in-a-Stream)              | Easy       | BST/Heapq                          |
 | 740  | [Binary Search](https://leetcode.com/problems/binary-search/) | [Python](./src/Binary-Search)                                | Easy       | Binary Search                      |
+| 786  | [K-th Smallest Prime Fraction](https://leetcode.com/problems/k-th-smallest-prime-fraction/) | [Python](./src/K-th-Smallest-Prime-Fraction)                 | Hard       | Heap                               |
 | 797  | [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/) | [Python](./src/All-Paths-From-Source-to-Target)              | Medium     | Backtracking                       |
 | 863  | [All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) | [Python](./src/All-Nodes-Distance-K-in-Binary_tree)          | Medium     | Binary Tree/Graph                  |
 | 889  | [Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/) | [Python](./src/Construct-Binary-Tree-from-Preorder-and-Postorder-Traversal) | Medium     | Binary Tree                        |
