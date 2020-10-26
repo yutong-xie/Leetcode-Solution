@@ -5,7 +5,7 @@ All the code were written in **Python 2.7 or Python 3** . Each file contains sol
 
 
 
-**Progress: 74 solutions**
+**Progress: 75 solutions**
 
 | ID   | Title                                                        | Solution                                                     | Difficulty | Related Topic                      |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ---------------------------------- |
@@ -40,6 +40,7 @@ All the code were written in **Python 2.7 or Python 3** . Each file contains sol
 | 123  | [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) | [Python](./src/Best-Time-to-Buy-and-Sell-Stock-III)          | Hard       | Bidirectional DP/One pass          |
 | 127  | [Word Ladder](https://leetcode.com/problems/word-ladder/)    | [Python](./src/Word-Ladder)                                  | Medium     | BFS                                |
 | 133  | [Clone Graph](https://leetcode.com/problems/clone-graph/)    | [Python](./src/Clone-Graph)                                  | Medium     | DFS                                |
+| 140  | [Word Break II](https://leetcode.com/problems/word-break-ii/) | [Python](./src/Word-Break-II)                                | Hard       | DP+Backtracking                    |
 | 141  | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Python](./src/Linked-List-Cycel)                            | Easy       | Hashmap/Fast Slow Pointer          |
 | 144  | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Python](./src/Binary-Tree-Preorder-Traversal)               | Medium     | Binary Tree                        |
 | 145  | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [Python](./src/Binary-Tree-Postorder-Traversal)              | Medium     | Binary Tree                        |
