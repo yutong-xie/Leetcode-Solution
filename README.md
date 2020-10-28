@@ -5,7 +5,7 @@ All the code were written in **Python 2.7 or Python 3** . Each file contains sol
 
 
 
-**Progress: 75 solutions**
+**Progress: 77 solutions**
 
 | ID   | Title                                                        | Solution                                                     | Difficulty | Related Topic                      |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ---------------------------------- |
@@ -23,6 +23,7 @@ All the code were written in **Python 2.7 or Python 3** . Each file contains sol
 | 48   | [Rotate Image](https://leetcode.com/problems/rotate-image/)  | [Python](./src/Rotate-Image)                                 | Medium     | Array                              |
 | 53   | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Python](./src/Maximum-Subarray)                             | Easy       | Greedy Algorithm                   |
 | 54   | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [Python](./src/Spiral-Matrix)                                | Medium     | Array                              |
+| 69   | [Sqrt(x)](https://leetcode.com/problems/sqrtx/)              | [Python](./src/Sqrt(x))                                      | Easy       | Binary Search                      |
 | 76   | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [Python](./src/Minimum-Window-Substring)                     | Hard       | Sliding Window                     |
 | 79   | [Word Search](https://leetcode.com/problems/word-search/)    | [Python](./src/Wrod-Search)                                  | Medium     | Back tracking                      |
 | 91   | [Decode Ways](https://leetcode.com/problems/decode-ways/)    | [Python](./src/Decode-Ways)                                  | Medium     | Dynamic Programming                |
@@ -58,6 +59,7 @@ All the code were written in **Python 2.7 or Python 3** . Each file contains sol
 | 210  | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | [Python](./src/Course-Schedule-II)                           | Medium     | Topological Sorting                |
 | 216  | [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | [Python](./src/Combination-Sum-III)                          | Medium     | Back tracking                      |
 | 221  | [Maximal Square](https://leetcode.com/problems/maximal-square/) | [Python](./src/Maximal-Square)                               | Medium     | Dynamic Programming                |
+| 230  | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [Python](..src/Kth-Smallest-Element-in-a-BST)                | Medium     | Binary Search Tree                 |
 | 235  | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Python](./src/Lowest-Common-Ancestor-of-a-Binary-Search-Tree) | Easy       | Binary Search Tree                 |
 | 236  | [Lowest-Common-Ancestor-of-a-Binary-Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [Python](./src/Lowest-Common-Ancestor-of-a-Binary-Tree)      | Medium     | Parent Pointer/Tree                |
 | 257  | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | [Python](./src/Binary-Tree-Paths)                            | Easy       | DFS                                |

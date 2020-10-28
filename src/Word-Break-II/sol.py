@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 '''
     Copyright 2020, Yutong Xie, UIUC.
-    Using dynamic programming and backtracking to solve word break problem 
+    Using dynamic programming and backtracking to solve word break problem
  '''
 
 
