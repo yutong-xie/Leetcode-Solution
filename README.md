@@ -5,7 +5,7 @@ All the code were written in **Python 2.7 or Python 3** . Each file contains sol
 
 
 
-**Progress: 77 solutions**
+**Progress: 80 solutions**
 
 | ID   | Title                                                        | Solution                                                     | Difficulty | Related Topic                      |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ---------------------------------- |
@@ -71,8 +71,10 @@ All the code were written in **Python 2.7 or Python 3** . Each file contains sol
 | 347  | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Python](./src/Top-K-Frequent-Elements)                      | Medium     | Heap                               |
 | 384  | [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/) | [Python](./src/Shuffle-an-Array)                             | Medium     | Array                              |
 | 401  | [Binary Watch](https://leetcode.com/problems/binary-watch/)  | [Python](./src/Binary-Watch)                                 | Easy       | Backtracking                       |
+| 435  | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | [Python](./src/Non-overlapping-Intervals)                    | Medium     | DP/Greedy                          |
 | 444  | [Sequence Reconstruction](https://leetcode.com/problems/sequence-reconstruction/) | [Python](./src/Sequence-Reconstruction)                      | Medium     | Topological Sorting                |
 | 450  | [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | [Python](./src/Delete-Node-in-a-BST)                         | Medium     | Binary Search Tree                 |
+| 452  | [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) | [Python](./src/Minimum-Number-of-Arrows-to-Burst-Ballons)    | Meidum     | Greedy/DP                          |
 | 490  | [The Maze](https://leetcode.com/problems/the-maze/)          | [Python](./src/The-Maze)                                     | Medium     | BFS                                |
 | 515  | [Find Largest value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) | [Python](./src/Find-Largest-Value-in-Each-Tree-Row)          | Medium     | BFS                                |
 | 516  | [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) | [Python](./src/Longest-Palindromic-Subsequence)              | Medium     | Dynamic Programming                |
@@ -86,6 +88,7 @@ All the code were written in **Python 2.7 or Python 3** . Each file contains sol
 | 863  | [All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) | [Python](./src/All-Nodes-Distance-K-in-Binary_tree)          | Medium     | Binary Tree/Graph                  |
 | 889  | [Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/) | [Python](./src/Construct-Binary-Tree-from-Preorder-and-Postorder-Traversal) | Medium     | Binary Tree                        |
 | 1302 | [Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/) | [Python](./src/Deepest-Leaves-Sum)                           | Medium     | BFS                                |
+| 1553 | [Minimum Number of Days to Eat N Oranges](https://leetcode.com/problems/minimum-number-of-days-to-eat-n-oranges/) | [Python](./src/Minimum-Number-of-Days-to-Eat-N-Oranges)      | Hard       | Dynamic Progamming                 |
 
 ​	
 
