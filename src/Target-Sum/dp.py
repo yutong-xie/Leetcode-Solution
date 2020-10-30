@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 '''
     Copyright 2020, Yutong Xie, UIUC.
-    Using hashmap to find out how many ways to assign symbols to make sum of integers equal to target S.
+    Using Dynamic Programming to find out how many ways to assign symbols to make sum of integers equal to target S.
  '''
 
 class Solution(object):
