@@ -5,7 +5,7 @@ All the code were written in **Python 2.7 or Python 3** . Each file contains sol
 
 
 
-**Progress: 81 solutions**
+**Progress: 83 solutions**
 
 | ID   | Title                                                        | Solution                                                     | Difficulty | Related Topic                      |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ---------------------------------- |
@@ -24,6 +24,7 @@ All the code were written in **Python 2.7 or Python 3** . Each file contains sol
 | 53   | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Python](./src/Maximum-Subarray)                             | Easy       | Greedy Algorithm                   |
 | 54   | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [Python](./src/Spiral-Matrix)                                | Medium     | Array                              |
 | 69   | [Sqrt(x)](https://leetcode.com/problems/sqrtx/)              | [Python](./src/Sqrt(x))                                      | Easy       | Binary Search                      |
+| 70   | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Python](./src/Climbing-Stairs)                              | Easy       | Dynamic Programming                |
 | 76   | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [Python](./src/Minimum-Window-Substring)                     | Hard       | Sliding Window                     |
 | 79   | [Word Search](https://leetcode.com/problems/word-search/)    | [Python](./src/Wrod-Search)                                  | Medium     | Back tracking                      |
 | 91   | [Decode Ways](https://leetcode.com/problems/decode-ways/)    | [Python](./src/Decode-Ways)                                  | Medium     | Dynamic Programming                |
@@ -84,6 +85,7 @@ All the code were written in **Python 2.7 or Python 3** . Each file contains sol
 | 701  | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | [Python](./src/Insert-into-a-Binary-Search-Tree)             | Medium     | Binary Search Tree                 |
 | 703  | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | [Python](./src/Kth-Largest-Element-in-a-Stream)              | Easy       | BST/Heapq                          |
 | 740  | [Binary Search](https://leetcode.com/problems/binary-search/) | [Python](./src/Binary-Search)                                | Easy       | Binary Search                      |
+| 746  | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [Python](./src/Min-Cost-Climbing-Stairs)                     | Easy       | Dynamic Programming                |
 | 786  | [K-th Smallest Prime Fraction](https://leetcode.com/problems/k-th-smallest-prime-fraction/) | [Python](./src/K-th-Smallest-Prime-Fraction)                 | Hard       | Heap                               |
 | 797  | [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/) | [Python](./src/All-Paths-From-Source-to-Target)              | Medium     | Backtracking                       |
 | 863  | [All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) | [Python](./src/All-Nodes-Distance-K-in-Binary_tree)          | Medium     | Binary Tree/Graph                  |
