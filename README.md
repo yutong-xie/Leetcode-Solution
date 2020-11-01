@@ -5,7 +5,7 @@ All the code were written in **Python 2.7 or Python 3** . Each file contains sol
 
 
 
-**Progress: 83 solutions**
+**Progress: 87 solutions**
 
 | ID   | Title                                                        | Solution                                                     | Difficulty | Related Topic                      |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ---------------------------------- |
@@ -25,6 +25,7 @@ All the code were written in **Python 2.7 or Python 3** . Each file contains sol
 | 54   | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [Python](./src/Spiral-Matrix)                                | Medium     | Array                              |
 | 69   | [Sqrt(x)](https://leetcode.com/problems/sqrtx/)              | [Python](./src/Sqrt(x))                                      | Easy       | Binary Search                      |
 | 70   | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Python](./src/Climbing-Stairs)                              | Easy       | Dynamic Programming                |
+| 74   | [Search-a-2D-Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [Python](./src/Search-a-2D-Matrix)                           | Medium     | Array                              |
 | 76   | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [Python](./src/Minimum-Window-Substring)                     | Hard       | Sliding Window                     |
 | 79   | [Word Search](https://leetcode.com/problems/word-search/)    | [Python](./src/Wrod-Search)                                  | Medium     | Back tracking                      |
 | 91   | [Decode Ways](https://leetcode.com/problems/decode-ways/)    | [Python](./src/Decode-Ways)                                  | Medium     | Dynamic Programming                |
@@ -52,6 +53,7 @@ All the code were written in **Python 2.7 or Python 3** . Each file contains sol
 | 155  | [Min Stack](https://leetcode.com/problems/min-stack/)        | [Python](./src/Min-Stack)                                    | Easy       | Stack                              |
 | 160  | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Python](./src/Intersection-of-Two-Linked-Lists)             | Easy       | Linked List                        |
 | 173  | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | [Python](./src/Binary-Search-Tree-Iteator)                   | Medium     | Binary Search Tree                 |
+| 187  | [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/) | [Python](./src/Repeated-DNA-Sequences)                       | Medium     | Set/Array                          |
 | 188  | [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) | [Python](./src/Best-Time-to-But-and-Sell-Stock-IV)           | Hard       | DP/ One pass                       |
 | 198  | [House Robber](https://leetcode.com/problems/house-robber/)  | [Python](./src/House-Robber)                                 | Ease       | Dynamic Programming                |
 | 200  | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Python](./src/Number-of-Islands)                            | Medium     | DFS/Union find                     |
@@ -90,6 +92,8 @@ All the code were written in **Python 2.7 or Python 3** . Each file contains sol
 | 797  | [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/) | [Python](./src/All-Paths-From-Source-to-Target)              | Medium     | Backtracking                       |
 | 863  | [All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) | [Python](./src/All-Nodes-Distance-K-in-Binary_tree)          | Medium     | Binary Tree/Graph                  |
 | 889  | [Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/) | [Python](./src/Construct-Binary-Tree-from-Preorder-and-Postorder-Traversal) | Medium     | Binary Tree                        |
+| 912  | [Sort an Array](https://leetcode.com/problems/sort-an-array/) | [Python](./src/Sort-an-Array)                                | Medium     | Sort                               |
+| 994  | [Rotting Oranges]()                                          | [Python](./src/Rotting-Oranges)                              | Medium     | BFS                                |
 | 1302 | [Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/) | [Python](./src/Deepest-Leaves-Sum)                           | Medium     | BFS                                |
 | 1553 | [Minimum Number of Days to Eat N Oranges](https://leetcode.com/problems/minimum-number-of-days-to-eat-n-oranges/) | [Python](./src/Minimum-Number-of-Days-to-Eat-N-Oranges)      | Hard       | Dynamic Progamming                 |
 
