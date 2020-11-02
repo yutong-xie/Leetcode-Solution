@@ -3,6 +3,12 @@
 '''
     Copyright 2020, Yutong Xie, UIUC.
     Using DFS with memorization to find cheapest flights within K stops.
+
+    The number of recursive calls we can potentially make is O(VK).
+    In each recursive call, we iterate over a given node's neighbors.
+    That takes time O(V) because we are using an adjacency matrix.
+    Thus, the overall time complexity is O(V^2⋅K).
+
  '''
 
 class Solution(object):
@@ -22,8 +28,7 @@ class Solution(object):
 
         for e in flights:
             start, end, cost = e
-            airmap[start].append(end)
-            costs[(start, end)] = cost
+            airmap[start].append((end, cost))
 
         visited = {}
 
@@ -39,8 +44,8 @@ class Solution(object):
                 return visited[(node, stops)]
 
             ans = float("inf")
-            for adj in airmap[node]:
-                ans = min(ans, dfs(adj, stops-1) + costs[(node, adj)])
+            for adj, cost in airmap[node]:
+                ans = min(ans, dfs(adj, stops-1) + cost)
 
             visited[(node, stops)] = ans
             return ans

@@ -5,7 +5,7 @@ All the code were written in **Python 2.7 or Python 3** . Each file contains sol
 
 
 
-**Progress: 90 solutions**
+**Progress: 92 solutions**
 
 | ID   | Title                                                        | Solution                                                     | Difficulty | Related Topic                      |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ---------------------------------- |
@@ -27,7 +27,7 @@ All the code were written in **Python 2.7 or Python 3** . Each file contains sol
 | 70   | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Python](./src/Climbing-Stairs)                              | Easy       | Dynamic Programming                |
 | 74   | [Search-a-2D-Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [Python](./src/Search-a-2D-Matrix)                           | Medium     | Array                              |
 | 76   | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [Python](./src/Minimum-Window-Substring)                     | Hard       | Sliding Window                     |
-| 79   | [Word Search](https://leetcode.com/problems/word-search/)    | [Python](./src/Wrod-Search)                                  | Medium     | Back tracking                      |
+| 79   | [Word Search](https://leetcode.com/problems/word-search/)    | [Python](./src/Wrod-Search)                                  | Medium     | Backtracking                       |
 | 91   | [Decode Ways](https://leetcode.com/problems/decode-ways/)    | [Python](./src/Decode-Ways)                                  | Medium     | Dynamic Programming                |
 | 92   | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | [Python](./src/Reverse-Linked-List-II)                       | Medium     | Linked List                        |
 | 94   | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Python](./src/Binary-Tree-Inorder-Traversal)                | Medium     | Binary Tree                        |
@@ -73,6 +73,7 @@ All the code were written in **Python 2.7 or Python 3** . Each file contains sol
 | 300  | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [Python](./src/Longest-Increasing-Subsequence)               | Medium     | Dynamic Programming/Binary Search  |
 | 322  | [Coin Change](https://leetcode.com/problems/coin-change/)    | [Python](./src/Coin-Change)                                  | Medium     | Dynamic Programming                |
 | 347  | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Python](./src/Top-K-Frequent-Elements)                      | Medium     | Heap                               |
+| 373  | [Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/) | [Python](./src/Find-K-Pairs-with-Smallest-Sums)              | Medium     | Heap                               |
 | 384  | [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/) | [Python](./src/Shuffle-an-Array)                             | Medium     | Array                              |
 | 401  | [Binary Watch](https://leetcode.com/problems/binary-watch/)  | [Python](./src/Binary-Watch)                                 | Easy       | Backtracking                       |
 | 435  | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | [Python](./src/Non-overlapping-Intervals)                    | Medium     | DP/Greedy                          |
@@ -93,6 +94,7 @@ All the code were written in **Python 2.7 or Python 3** . Each file contains sol
 | 787  | [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) | [Python](./src/Cheapest-Flights-Within-K-Stops)              | Medium     | DFS/Dijkstra                       |
 | 786  | [K-th Smallest Prime Fraction](https://leetcode.com/problems/k-th-smallest-prime-fraction/) | [Python](./src/K-th-Smallest-Prime-Fraction)                 | Hard       | Heap                               |
 | 797  | [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/) | [Python](./src/All-Paths-From-Source-to-Target)              | Medium     | Backtracking                       |
+| 844  | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | [Python](./src/Backspace-String-Compare)                     | Easy       | String                             |
 | 863  | [All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) | [Python](./src/All-Nodes-Distance-K-in-Binary_tree)          | Medium     | Binary Tree/Graph                  |
 | 889  | [Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/) | [Python](./src/Construct-Binary-Tree-from-Preorder-and-Postorder-Traversal) | Medium     | Binary Tree                        |
 | 912  | [Sort an Array](https://leetcode.com/problems/sort-an-array/) | [Python](./src/Sort-an-Array)                                | Medium     | Sort                               |
