@@ -61,6 +61,31 @@ class Solution(object):
 
                 return nums
 
+            def partition2(nums, l, r):
+
+                if l > r:
+                    return
+
+                pivot_index = random.randint(l, r)
+                pivot = nums[pivot_index]
+
+                nums[pivot_index], nums[r] = nums[r], nums[pivot_index]
+
+                index = l
+
+                for i in range(l, r):
+                    if nums[i] < pivot:
+                        nums[i], nums[index] = nums[index], nums[i]
+                        index += 1
+
+                nums[index], nums[r] = nums[r], nums[index]
+
+
+                partition(nums, l, index-1)
+                partition(nums, index+1, r)
+
+                return nums
+
             return partition(nums, 0, len(nums)-1)
 
         """

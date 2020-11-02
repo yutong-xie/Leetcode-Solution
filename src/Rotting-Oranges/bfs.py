@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 '''
     Copyright 2020, Yutong Xie, UIUC.
-    Using BFS to solve the problem. 
+    Using BFS to solve the problem.
  '''
 
 class Solution(object):

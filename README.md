@@ -5,7 +5,7 @@ All the code were written in **Python 2.7 or Python 3** . Each file contains sol
 
 
 
-**Progress: 87 solutions**
+**Progress: 90 solutions**
 
 | ID   | Title                                                        | Solution                                                     | Difficulty | Related Topic                      |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ---------------------------------- |
@@ -65,6 +65,7 @@ All the code were written in **Python 2.7 or Python 3** . Each file contains sol
 | 230  | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [Python](..src/Kth-Smallest-Element-in-a-BST)                | Medium     | Binary Search Tree                 |
 | 235  | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Python](./src/Lowest-Common-Ancestor-of-a-Binary-Search-Tree) | Easy       | Binary Search Tree                 |
 | 236  | [Lowest-Common-Ancestor-of-a-Binary-Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [Python](./src/Lowest-Common-Ancestor-of-a-Binary-Tree)      | Medium     | Parent Pointer/Tree                |
+| 242  | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | [Python](./src/Valid-Anagram)                                | Easy       | Hashmap                            |
 | 257  | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | [Python](./src/Binary-Tree-Paths)                            | Easy       | DFS                                |
 | 261  | [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/) | [Python](./src/Graph-Valid-Tree)                             | Medium     | DFS+Graph                          |
 | 269  | [Alien Dictionary](https://leetcode.com/problems/alien-dictionary/) | [Python](./src/Alien-Dictionary)                             | Hard       | Topological Sort                   |
@@ -88,6 +89,8 @@ All the code were written in **Python 2.7 or Python 3** . Each file contains sol
 | 703  | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | [Python](./src/Kth-Largest-Element-in-a-Stream)              | Easy       | BST/Heapq                          |
 | 740  | [Binary Search](https://leetcode.com/problems/binary-search/) | [Python](./src/Binary-Search)                                | Easy       | Binary Search                      |
 | 746  | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [Python](./src/Min-Cost-Climbing-Stairs)                     | Easy       | Dynamic Programming                |
+| 760  | [Find Anagram Mappings](https://leetcode.com/problems/find-anagram-mappings/) | [Python](./src/Find-Anagram-Mappings)                        | Easy       | Hashmap                            |
+| 787  | [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) | [Python](./src/Cheapest-Flights-Within-K-Stops)              | Medium     | DFS/Dijkstra                       |
 | 786  | [K-th Smallest Prime Fraction](https://leetcode.com/problems/k-th-smallest-prime-fraction/) | [Python](./src/K-th-Smallest-Prime-Fraction)                 | Hard       | Heap                               |
 | 797  | [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/) | [Python](./src/All-Paths-From-Source-to-Target)              | Medium     | Backtracking                       |
 | 863  | [All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) | [Python](./src/All-Nodes-Distance-K-in-Binary_tree)          | Medium     | Binary Tree/Graph                  |
