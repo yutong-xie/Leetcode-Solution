@@ -5,7 +5,7 @@ All the code were written in **Python 2.7 or Python 3** . Each file contains sol
 
 
 
-**Progress: 92 solutions**
+**Progress: 96 solutions**
 
 | ID   | Title                                                        | Solution                                                     | Difficulty | Related Topic                      |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ---------------------------------- |
@@ -38,6 +38,7 @@ All the code were written in **Python 2.7 or Python 3** . Each file contains sol
 | 106  | [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | [Python](./src/Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal) | Medium     | Binary Tree                        |
 | 108  | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Python](./src/Converted-Sorted-Array-to-Binary_search-Tree) | Easy       | Binary Search Tree                 |
 | 109  | [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | [Python](./src/Converted-Sorted-List-to-Binary_search-Tree)  | Medium     | Binary Search Tree                 |
+| 116  | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | [Python](./src/Populating-Next-Right-Pointers-in-Each-Node)  | Medium     | BFS                                |
 | 121  | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Python](./src/Best-Time-to-Buy-and-Sell-Stock)              | Easy       | Dynamic Programming                |
 | 122  | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Python](./src/Best-Time-to-Buy-and-Sell-Stock-II)           | Easy       | Greedy                             |
 | 123  | [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) | [Python](./src/Best-Time-to-Buy-and-Sell-Stock-III)          | Hard       | Bidirectional DP/One pass          |
@@ -72,6 +73,7 @@ All the code were written in **Python 2.7 or Python 3** . Each file contains sol
 | 285  | [Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/) | [Python](./src/Inorder-Successor-in-BST)                     | Medium     | Binary Search Tree                 |
 | 300  | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [Python](./src/Longest-Increasing-Subsequence)               | Medium     | Dynamic Programming/Binary Search  |
 | 322  | [Coin Change](https://leetcode.com/problems/coin-change/)    | [Python](./src/Coin-Change)                                  | Medium     | Dynamic Programming                |
+| 340  | [Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/) | [Python](./src/Longest-Substring-with-At-Most-K-Distinct-Characters) | Hard       | Sliding Window                     |
 | 347  | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Python](./src/Top-K-Frequent-Elements)                      | Medium     | Heap                               |
 | 373  | [Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/) | [Python](./src/Find-K-Pairs-with-Smallest-Sums)              | Medium     | Heap                               |
 | 384  | [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/) | [Python](./src/Shuffle-an-Array)                             | Medium     | Array                              |
@@ -84,6 +86,7 @@ All the code were written in **Python 2.7 or Python 3** . Each file contains sol
 | 494  | [Target Sum](https://leetcode.com/problems/target-sum/)      | [Python](./src/Target-Sum)                                   | Medium     | Dynamic Programming                |
 | 515  | [Find Largest value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) | [Python](./src/Find-Largest-Value-in-Each-Tree-Row)          | Medium     | BFS                                |
 | 516  | [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) | [Python](./src/Longest-Palindromic-Subsequence)              | Medium     | Dynamic Programming                |
+| 617  | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | [Python](./src/Merge-Two-Binary-Trees)                       | Easy       | Binary Search Tree                 |
 | 692  | [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | [Python](./src/Top-K-Frequent-Words)                         | Medium     | Counter                            |
 | 700  | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [Python](./src/Search-in-a-Binary-Search-Tree)               | Easy       | Binary Search Tree                 |
 | 701  | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | [Python](./src/Insert-into-a-Binary-Search-Tree)             | Medium     | Binary Search Tree                 |
@@ -98,6 +101,7 @@ All the code were written in **Python 2.7 or Python 3** . Each file contains sol
 | 863  | [All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) | [Python](./src/All-Nodes-Distance-K-in-Binary_tree)          | Medium     | Binary Tree/Graph                  |
 | 889  | [Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/) | [Python](./src/Construct-Binary-Tree-from-Preorder-and-Postorder-Traversal) | Medium     | Binary Tree                        |
 | 912  | [Sort an Array](https://leetcode.com/problems/sort-an-array/) | [Python](./src/Sort-an-Array)                                | Medium     | Sort                               |
+| 916  | [Word Subsets](https://leetcode.com/problems/word-subsets/)  | [Python](./src/Word-Subsets)                                 | Medium     | Hashmap                            |
 | 994  | [Rotting Oranges]()                                          | [Python](./src/Rotting-Oranges)                              | Medium     | BFS                                |
 | 1302 | [Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/) | [Python](./src/Deepest-Leaves-Sum)                           | Medium     | BFS                                |
 | 1553 | [Minimum Number of Days to Eat N Oranges](https://leetcode.com/problems/minimum-number-of-days-to-eat-n-oranges/) | [Python](./src/Minimum-Number-of-Days-to-Eat-N-Oranges)      | Hard       | Dynamic Progamming                 |
