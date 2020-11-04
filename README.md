@@ -5,7 +5,7 @@ All the code were written in **Python 2.7 or Python 3** . Each file contains sol
 
 
 
-**Progress: 96 solutions**
+**Progress: 97 solutions**
 
 | ID   | Title                                                        | Solution                                                     | Difficulty | Related Topic                      |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ---------------------------------- |
@@ -103,6 +103,7 @@ All the code were written in **Python 2.7 or Python 3** . Each file contains sol
 | 912  | [Sort an Array](https://leetcode.com/problems/sort-an-array/) | [Python](./src/Sort-an-Array)                                | Medium     | Sort                               |
 | 916  | [Word Subsets](https://leetcode.com/problems/word-subsets/)  | [Python](./src/Word-Subsets)                                 | Medium     | Hashmap                            |
 | 994  | [Rotting Oranges]()                                          | [Python](./src/Rotting-Oranges)                              | Medium     | BFS                                |
+| 1091 | [Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | [Python](./src/Shortest-Path-in-Binary-Matrix)               | Meidum     | BFS                                |
 | 1302 | [Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/) | [Python](./src/Deepest-Leaves-Sum)                           | Medium     | BFS                                |
 | 1553 | [Minimum Number of Days to Eat N Oranges](https://leetcode.com/problems/minimum-number-of-days-to-eat-n-oranges/) | [Python](./src/Minimum-Number-of-Days-to-Eat-N-Oranges)      | Hard       | Dynamic Progamming                 |
 
