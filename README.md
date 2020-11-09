@@ -5,7 +5,7 @@ All the code were written in **Python 2.7 or Python 3** . Each file contains sol
 
 
 
-**Progress: 97 solutions**
+**Progress: 102 solutions**
 
 | ID   | Title                                                        | Solution                                                     | Difficulty | Related Topic                      |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ---------------------------------- |
@@ -15,6 +15,7 @@ All the code were written in **Python 2.7 or Python 3** . Each file contains sol
 | 21   | [Merge two sorted lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Python](./src/Merge-Two-Sorted-Lists)                       | Easy       | Linked List                        |
 | 22   | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Python](./src/Generate-Parenthses)                          | Medium     | Backtracking                       |
 | 23   | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Python](./src/Merge-k-Sorted-Lists)                         | Hard       | Divide and Conquer/heapq           |
+| 31   | [Next Permutation](https://leetcode.com/problems/next-permutation/) | [Python](./src/Next-Permutation)                             | Medium     | Array                              |
 | 33   | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Python](./src/Search-in-Rotated-Sorted-Array)               | Medium     | Binary Search                      |
 | 34   | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Python](./src/Find-First-and-Last-Position-of-Element-in-Sorted-Array) | Medium     | Binary Search                      |
 | 41   | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [Python](./src/First-Missing-Positive)                       | Hard       | Array                              |
@@ -46,6 +47,7 @@ All the code were written in **Python 2.7 or Python 3** . Each file contains sol
 | 133  | [Clone Graph](https://leetcode.com/problems/clone-graph/)    | [Python](./src/Clone-Graph)                                  | Medium     | DFS                                |
 | 140  | [Word Break II](https://leetcode.com/problems/word-break-ii/) | [Python](./src/Word-Break-II)                                | Hard       | DP+Backtracking                    |
 | 141  | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Python](./src/Linked-List-Cycel)                            | Easy       | Hashmap/Fast Slow Pointer          |
+| 143  | [Reorder List](https://leetcode.com/problems/reorder-list/)  | [Python](./src/Reorder-List)                                 | Medium     | LinkedList                         |
 | 144  | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Python](./src/Binary-Tree-Preorder-Traversal)               | Medium     | Binary Tree                        |
 | 145  | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [Python](./src/Binary-Tree-Postorder-Traversal)              | Medium     | Binary Tree                        |
 | 146  | [LRU Cache](https://leetcode.com/problems/lru-cache/)        | [Python](./src/LRU-Cache)                                    | Medium     | OrderedDictionary/DoubleLinkedList |
@@ -64,6 +66,7 @@ All the code were written in **Python 2.7 or Python 3** . Each file contains sol
 | 216  | [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | [Python](./src/Combination-Sum-III)                          | Medium     | Back tracking                      |
 | 221  | [Maximal Square](https://leetcode.com/problems/maximal-square/) | [Python](./src/Maximal-Square)                               | Medium     | Dynamic Programming                |
 | 230  | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [Python](..src/Kth-Smallest-Element-in-a-BST)                | Medium     | Binary Search Tree                 |
+| 234  | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [Python](./src/Palindrome-Linked-List)                       | Easy       | LinkedList                         |
 | 235  | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Python](./src/Lowest-Common-Ancestor-of-a-Binary-Search-Tree) | Easy       | Binary Search Tree                 |
 | 236  | [Lowest-Common-Ancestor-of-a-Binary-Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [Python](./src/Lowest-Common-Ancestor-of-a-Binary-Tree)      | Medium     | Parent Pointer/Tree                |
 | 242  | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | [Python](./src/Valid-Anagram)                                | Easy       | Hashmap                            |
@@ -73,6 +76,7 @@ All the code were written in **Python 2.7 or Python 3** . Each file contains sol
 | 285  | [Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/) | [Python](./src/Inorder-Successor-in-BST)                     | Medium     | Binary Search Tree                 |
 | 300  | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [Python](./src/Longest-Increasing-Subsequence)               | Medium     | Dynamic Programming/Binary Search  |
 | 322  | [Coin Change](https://leetcode.com/problems/coin-change/)    | [Python](./src/Coin-Change)                                  | Medium     | Dynamic Programming                |
+| 328  | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [Python](./src/Odd-Even-Linked-List)                         | Meidum     | LinkedList                         |
 | 340  | [Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/) | [Python](./src/Longest-Substring-with-At-Most-K-Distinct-Characters) | Hard       | Sliding Window                     |
 | 347  | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Python](./src/Top-K-Frequent-Elements)                      | Medium     | Heap                               |
 | 373  | [Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/) | [Python](./src/Find-K-Pairs-with-Smallest-Sums)              | Medium     | Heap                               |
@@ -102,6 +106,7 @@ All the code were written in **Python 2.7 or Python 3** . Each file contains sol
 | 889  | [Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/) | [Python](./src/Construct-Binary-Tree-from-Preorder-and-Postorder-Traversal) | Medium     | Binary Tree                        |
 | 912  | [Sort an Array](https://leetcode.com/problems/sort-an-array/) | [Python](./src/Sort-an-Array)                                | Medium     | Sort                               |
 | 916  | [Word Subsets](https://leetcode.com/problems/word-subsets/)  | [Python](./src/Word-Subsets)                                 | Medium     | Hashmap                            |
+| 986  | [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/) | [Python](./src/Interval-List-Intersections)                  | Medium     | Two pointers                       |
 | 994  | [Rotting Oranges]()                                          | [Python](./src/Rotting-Oranges)                              | Medium     | BFS                                |
 | 1091 | [Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | [Python](./src/Shortest-Path-in-Binary-Matrix)               | Meidum     | BFS                                |
 | 1302 | [Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/) | [Python](./src/Deepest-Leaves-Sum)                           | Medium     | BFS                                |
