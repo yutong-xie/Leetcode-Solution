@@ -4,6 +4,7 @@
     Copyright 2020, Yutong Xie, UIUC.
     Using dfs to find maximum length of a concatenated string with unique characters.
  '''
+
 class Solution(object):
     def __init__(self):
         self.maxlen = 0
