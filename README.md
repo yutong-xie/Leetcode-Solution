@@ -5,7 +5,7 @@ All the code were written in **Python 2.7 or Python 3** . Each file contains sol
 
 
 
-**Progress: 102 solutions**
+**Progress: 106 solutions**
 
 | ID   | Title                                                        | Solution                                                     | Difficulty | Related Topic                      |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ---------------------------------- |
@@ -63,6 +63,7 @@ All the code were written in **Python 2.7 or Python 3** . Each file contains sol
 | 206  | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Python](./src/Reverse-Linked-List)                          | Easy       | Linked List                        |
 | 207  | [Course Schedule](https://leetcode.com/problems/course-schedule/) | [Python](./src/Course-Schedule)                              | Medium     | Topological Sorting                |
 | 210  | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | [Python](./src/Course-Schedule-II)                           | Medium     | Topological Sorting                |
+| 215  | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [Python](./src/Kth-Largest-Element-in-an-Array)              | Medium     | Quick Select                       |
 | 216  | [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | [Python](./src/Combination-Sum-III)                          | Medium     | Back tracking                      |
 | 221  | [Maximal Square](https://leetcode.com/problems/maximal-square/) | [Python](./src/Maximal-Square)                               | Medium     | Dynamic Programming                |
 | 230  | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [Python](..src/Kth-Smallest-Element-in-a-BST)                | Medium     | Binary Search Tree                 |
@@ -95,6 +96,7 @@ All the code were written in **Python 2.7 or Python 3** . Each file contains sol
 | 700  | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [Python](./src/Search-in-a-Binary-Search-Tree)               | Easy       | Binary Search Tree                 |
 | 701  | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | [Python](./src/Insert-into-a-Binary-Search-Tree)             | Medium     | Binary Search Tree                 |
 | 703  | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | [Python](./src/Kth-Largest-Element-in-a-Stream)              | Easy       | BST/Heapq                          |
+| 711  | [Number of Distinct Islands II](https://leetcode.com/problems/number-of-distinct-islands-ii/) | [Python](./src/Number-of-Distinct-Islands-II)                | Medium     | DFS                                |
 | 740  | [Binary Search](https://leetcode.com/problems/binary-search/) | [Python](./src/Binary-Search)                                | Easy       | Binary Search                      |
 | 746  | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [Python](./src/Min-Cost-Climbing-Stairs)                     | Easy       | Dynamic Programming                |
 | 760  | [Find Anagram Mappings](https://leetcode.com/problems/find-anagram-mappings/) | [Python](./src/Find-Anagram-Mappings)                        | Easy       | Hashmap                            |
@@ -109,6 +111,8 @@ All the code were written in **Python 2.7 or Python 3** . Each file contains sol
 | 986  | [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/) | [Python](./src/Interval-List-Intersections)                  | Medium     | Two pointers                       |
 | 994  | [Rotting Oranges]()                                          | [Python](./src/Rotting-Oranges)                              | Medium     | BFS                                |
 | 1091 | [Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | [Python](./src/Shortest-Path-in-Binary-Matrix)               | Meidum     | BFS                                |
+| 1239 | [Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/) | [Python](./src/Maximum-Length-of-a-Concatenated-String-with-Unique-Characters) | Medium     | DFS                                |
+| 1293 | [Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/) | [Python](./src/Shortest-Path-in-a-Grid-with-Obstacles-Elimination) | Hard       | BFS                                |
 | 1302 | [Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/) | [Python](./src/Deepest-Leaves-Sum)                           | Medium     | BFS                                |
 | 1553 | [Minimum Number of Days to Eat N Oranges](https://leetcode.com/problems/minimum-number-of-days-to-eat-n-oranges/) | [Python](./src/Minimum-Number-of-Days-to-Eat-N-Oranges)      | Hard       | Dynamic Progamming                 |
 

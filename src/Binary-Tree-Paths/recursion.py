@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 '''
     Copyright 2020, Yutong Xie, UIUC.
-    Using recursion version of DFS to solve the problem. 
+    Using recursion version of DFS to solve the problem.
  '''
 
 # Definition for a binary tree node.
