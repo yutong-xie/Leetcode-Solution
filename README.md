@@ -5,7 +5,7 @@ All the code were written in **Python 2.7 or Python 3** . Each file contains sol
 
 
 
-**Progress: 106 solutions**
+**Progress: 112 solutions**
 
 | ID   | Title                                                        | Solution                                                     | Difficulty | Related Topic                      |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ---------------------------------- |
@@ -62,6 +62,7 @@ All the code were written in **Python 2.7 or Python 3** . Each file contains sol
 | 200  | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Python](./src/Number-of-Islands)                            | Medium     | DFS/Union find                     |
 | 206  | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Python](./src/Reverse-Linked-List)                          | Easy       | Linked List                        |
 | 207  | [Course Schedule](https://leetcode.com/problems/course-schedule/) | [Python](./src/Course-Schedule)                              | Medium     | Topological Sorting                |
+| 209  | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [Python](./src/Minimum-Size-Subarray-Sum)                    | Medium     | Two Pointers                       |
 | 210  | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | [Python](./src/Course-Schedule-II)                           | Medium     | Topological Sorting                |
 | 215  | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [Python](./src/Kth-Largest-Element-in-an-Array)              | Medium     | Quick Select                       |
 | 216  | [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | [Python](./src/Combination-Sum-III)                          | Medium     | Back tracking                      |
@@ -84,7 +85,9 @@ All the code were written in **Python 2.7 or Python 3** . Each file contains sol
 | 384  | [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/) | [Python](./src/Shuffle-an-Array)                             | Medium     | Array                              |
 | 401  | [Binary Watch](https://leetcode.com/problems/binary-watch/)  | [Python](./src/Binary-Watch)                                 | Easy       | Backtracking                       |
 | 435  | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | [Python](./src/Non-overlapping-Intervals)                    | Medium     | DP/Greedy                          |
+| 442  | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | [Python](./src/Find-All-Duplicates-in-an-Array)              | Meidum     | Hashmap                            |
 | 444  | [Sequence Reconstruction](https://leetcode.com/problems/sequence-reconstruction/) | [Python](./src/Sequence-Reconstruction)                      | Medium     | Topological Sorting                |
+| 448  | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [Python](./src/Find-All-Numbers-Disappeared-in-an-Array)     | Easy       | Hahsmap                            |
 | 450  | [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | [Python](./src/Delete-Node-in-a-BST)                         | Medium     | Binary Search Tree                 |
 | 452  | [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) | [Python](./src/Minimum-Number-of-Arrows-to-Burst-Ballons)    | Meidum     | Greedy/DP                          |
 | 490  | [The Maze](https://leetcode.com/problems/the-maze/)          | [Python](./src/The-Maze)                                     | Medium     | BFS                                |
@@ -92,7 +95,9 @@ All the code were written in **Python 2.7 or Python 3** . Each file contains sol
 | 515  | [Find Largest value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) | [Python](./src/Find-Largest-Value-in-Each-Tree-Row)          | Medium     | BFS                                |
 | 516  | [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) | [Python](./src/Longest-Palindromic-Subsequence)              | Medium     | Dynamic Programming                |
 | 617  | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | [Python](./src/Merge-Two-Binary-Trees)                       | Easy       | Binary Search Tree                 |
+| 621  | [Task Schedule](https://leetcode.com/problems/task-scheduler/) | [Python](./src/Task-Schedule)                                | Medium     | Array                              |
 | 692  | [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | [Python](./src/Top-K-Frequent-Words)                         | Medium     | Counter                            |
+| 695  | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | [Python](./src/Max-Area-of-Island)                           | Medium     | BFS                                |
 | 700  | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [Python](./src/Search-in-a-Binary-Search-Tree)               | Easy       | Binary Search Tree                 |
 | 701  | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | [Python](./src/Insert-into-a-Binary-Search-Tree)             | Medium     | Binary Search Tree                 |
 | 703  | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | [Python](./src/Kth-Largest-Element-in-a-Stream)              | Easy       | BST/Heapq                          |
@@ -114,6 +119,7 @@ All the code were written in **Python 2.7 or Python 3** . Each file contains sol
 | 1239 | [Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/) | [Python](./src/Maximum-Length-of-a-Concatenated-String-with-Unique-Characters) | Medium     | DFS                                |
 | 1293 | [Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/) | [Python](./src/Shortest-Path-in-a-Grid-with-Obstacles-Elimination) | Hard       | BFS                                |
 | 1302 | [Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/) | [Python](./src/Deepest-Leaves-Sum)                           | Medium     | BFS                                |
+| 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [Python](./src/Running-sum-of-1d-Array)                      | Easy       | Array                              |
 | 1553 | [Minimum Number of Days to Eat N Oranges](https://leetcode.com/problems/minimum-number-of-days-to-eat-n-oranges/) | [Python](./src/Minimum-Number-of-Days-to-Eat-N-Oranges)      | Hard       | Dynamic Progamming                 |
 
 ​	
