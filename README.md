@@ -5,7 +5,7 @@ All the code were written in **Python 2.7 or Python 3** . Each file contains sol
 
 
 
-**Progress: 112 solutions**
+**Progress: 115 solutions**
 
 | ID   | Title                                                        | Solution                                                     | Difficulty | Related Topic                      |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ---------------------------------- |
@@ -40,6 +40,7 @@ All the code were written in **Python 2.7 or Python 3** . Each file contains sol
 | 108  | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Python](./src/Converted-Sorted-Array-to-Binary_search-Tree) | Easy       | Binary Search Tree                 |
 | 109  | [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | [Python](./src/Converted-Sorted-List-to-Binary_search-Tree)  | Medium     | Binary Search Tree                 |
 | 116  | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | [Python](./src/Populating-Next-Right-Pointers-in-Each-Node)  | Medium     | BFS                                |
+| 120  | [Triangle](https://leetcode.com/problems/triangle/)          | [Python](./src/Triangle)                                     | Meidum     | DP/BFS                             |
 | 121  | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Python](./src/Best-Time-to-Buy-and-Sell-Stock)              | Easy       | Dynamic Programming                |
 | 122  | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Python](./src/Best-Time-to-Buy-and-Sell-Stock-II)           | Easy       | Greedy                             |
 | 123  | [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) | [Python](./src/Best-Time-to-Buy-and-Sell-Stock-III)          | Hard       | Bidirectional DP/One pass          |
@@ -53,6 +54,7 @@ All the code were written in **Python 2.7 or Python 3** . Each file contains sol
 | 146  | [LRU Cache](https://leetcode.com/problems/lru-cache/)        | [Python](./src/LRU-Cache)                                    | Medium     | OrderedDictionary/DoubleLinkedList |
 | 151  | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [Python](./src/Reverse-Words-in-a-String)                    | Medium     | String                             |
 | 152  | [Maximuim Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [Python](./src/Maximum-Product-Subarray)                     | Medium     | Dynamic Programming                |
+| 153  | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Python](./src/Find-Minimum-in-Rotated-Sorted-Array)         | Medium     | Binary Search                      |
 | 155  | [Min Stack](https://leetcode.com/problems/min-stack/)        | [Python](./src/Min-Stack)                                    | Easy       | Stack                              |
 | 160  | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Python](./src/Intersection-of-Two-Linked-Lists)             | Easy       | Linked List                        |
 | 173  | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | [Python](./src/Binary-Search-Tree-Iteator)                   | Medium     | Binary Search Tree                 |
@@ -119,6 +121,7 @@ All the code were written in **Python 2.7 or Python 3** . Each file contains sol
 | 1239 | [Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/) | [Python](./src/Maximum-Length-of-a-Concatenated-String-with-Unique-Characters) | Medium     | DFS                                |
 | 1293 | [Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/) | [Python](./src/Shortest-Path-in-a-Grid-with-Obstacles-Elimination) | Hard       | BFS                                |
 | 1302 | [Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/) | [Python](./src/Deepest-Leaves-Sum)                           | Medium     | BFS                                |
+| 1438 | [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | [Python](./src/Longest-Continuous-Subarray-With-Absolute-Diff-Less-Than-or-Equal-to-Limit) | Medium     | Sliding Window                     |
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [Python](./src/Running-sum-of-1d-Array)                      | Easy       | Array                              |
 | 1553 | [Minimum Number of Days to Eat N Oranges](https://leetcode.com/problems/minimum-number-of-days-to-eat-n-oranges/) | [Python](./src/Minimum-Number-of-Days-to-Eat-N-Oranges)      | Hard       | Dynamic Progamming                 |
 
