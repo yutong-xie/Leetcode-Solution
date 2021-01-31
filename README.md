@@ -5,7 +5,7 @@ All the code were written in **Python 2.7 or Python 3** . Each file contains sol
 
 
 
-**Progress: 116 solutions**
+**Progress: 118 solutions**
 
 | ID   | Title                                                        | Solution                                                     | Difficulty | Related Topic                      |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ---------------------------------- |
@@ -18,6 +18,7 @@ All the code were written in **Python 2.7 or Python 3** . Each file contains sol
 | 31   | [Next Permutation](https://leetcode.com/problems/next-permutation/) | [Python](./src/Next-Permutation)                             | Medium     | Array                              |
 | 33   | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Python](./src/Search-in-Rotated-Sorted-Array)               | Medium     | Binary Search                      |
 | 34   | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Python](./src/Find-First-and-Last-Position-of-Element-in-Sorted-Array) | Medium     | Binary Search                      |
+| 37   | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | [Python](./src/Sudoku-Solver)                                | Hard       | Backtracking                       |
 | 41   | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [Python](./src/First-Missing-Positive)                       | Hard       | Array                              |
 | 42   | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Python](./src/Trapping-Rain-Water)                          | Hard       | Dynamic Programming                |
 | 46   | [Permutations](https://leetcode.com/problems/permutations/)  | [Python](./src/Permutations)                                 | Medium     | Backtracking                       |
@@ -108,6 +109,7 @@ All the code were written in **Python 2.7 or Python 3** . Each file contains sol
 | 740  | [Binary Search](https://leetcode.com/problems/binary-search/) | [Python](./src/Binary-Search)                                | Easy       | Binary Search                      |
 | 746  | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [Python](./src/Min-Cost-Climbing-Stairs)                     | Easy       | Dynamic Programming                |
 | 760  | [Find Anagram Mappings](https://leetcode.com/problems/find-anagram-mappings/) | [Python](./src/Find-Anagram-Mappings)                        | Easy       | Hashmap                            |
+| 784  | [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/) | [Python](./src/Letter-Case-Permutation)                      | Medium     | Backtracking Tracking              |
 | 786  | [K-th Smallest Prime Fraction](https://leetcode.com/problems/k-th-smallest-prime-fraction/) | [Python](./src/K-th-Smallest-Prime-Fraction)                 | Hard       | Heap                               |
 | 787  | [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) | [Python](./src/Cheapest-Flights-Within-K-Stops)              | Medium     | DFS/Dijkstra                       |
 | 797  | [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/) | [Python](./src/All-Paths-From-Source-to-Target)              | Medium     | Backtracking                       |
