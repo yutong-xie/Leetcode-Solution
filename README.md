@@ -5,7 +5,7 @@ All the code were written in **Python 2.7 or Python 3** . Each file contains sol
 
 
 
-**Progress: 118 solutions**
+**Progress: 120 solutions**
 
 | ID   | Title                                                        | Solution                                                     | Difficulty | Related Topic                      |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ---------------------------------- |
@@ -18,6 +18,7 @@ All the code were written in **Python 2.7 or Python 3** . Each file contains sol
 | 31   | [Next Permutation](https://leetcode.com/problems/next-permutation/) | [Python](./src/Next-Permutation)                             | Medium     | Array                              |
 | 33   | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Python](./src/Search-in-Rotated-Sorted-Array)               | Medium     | Binary Search                      |
 | 34   | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Python](./src/Find-First-and-Last-Position-of-Element-in-Sorted-Array) | Medium     | Binary Search                      |
+| 36   | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)  | [Python](./src/Valid-Sudoku)                                 | Medium     | Dictionary                         |
 | 37   | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | [Python](./src/Sudoku-Solver)                                | Hard       | Backtracking                       |
 | 41   | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [Python](./src/First-Missing-Positive)                       | Hard       | Array                              |
 | 42   | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Python](./src/Trapping-Rain-Water)                          | Hard       | Dynamic Programming                |
@@ -49,7 +50,8 @@ All the code were written in **Python 2.7 or Python 3** . Each file contains sol
 | 127  | [Word Ladder](https://leetcode.com/problems/word-ladder/)    | [Python](./src/Word-Ladder)                                  | Medium     | BFS                                |
 | 133  | [Clone Graph](https://leetcode.com/problems/clone-graph/)    | [Python](./src/Clone-Graph)                                  | Medium     | DFS                                |
 | 140  | [Word Break II](https://leetcode.com/problems/word-break-ii/) | [Python](./src/Word-Break-II)                                | Hard       | DP+Backtracking                    |
-| 141  | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Python](./src/Linked-List-Cycel)                            | Easy       | Hashmap/Fast Slow Pointer          |
+| 141  | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Python](./src/Linked-List-Cycle)                            | Easy       | Hashmap/Fast Slow Pointer          |
+| 142  | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [Python](./src/Linked-List-Cycle-II)                         | Medium     | Hashmap/Fast Slow Pointer          |
 | 143  | [Reorder List](https://leetcode.com/problems/reorder-list/)  | [Python](./src/Reorder-List)                                 | Medium     | LinkedList                         |
 | 144  | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Python](./src/Binary-Tree-Preorder-Traversal)               | Medium     | Binary Tree                        |
 | 145  | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [Python](./src/Binary-Tree-Postorder-Traversal)              | Medium     | Binary Tree                        |

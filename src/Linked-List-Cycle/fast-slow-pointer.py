@@ -5,6 +5,7 @@
     Using fast-slow pointer to test whether a cycle exists in the linked list
  '''
 
+
 # Definition for singly-linked list.
 # class ListNode(object):
 #     def __init__(self, x):
@@ -17,18 +18,13 @@ class Solution(object):
         :type head: ListNode
         :rtype: bool
         """
+        slow, fast = head, head
 
-        if not head or not head.next:
-            return False
-
-        slow = head
-        fast = head.next
-
-        while slow != fast:
-            if fast == None or fast.next == None:
-                return False
+        while fast != None and fast.next != None:
             slow = slow.next
             fast = fast.next.next
 
-        return True
-                
+            if slow == fast:
+                return True
+
+        return False
