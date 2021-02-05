@@ -5,7 +5,7 @@ All the code were written in **Python 2.7 or Python 3** . Each file contains sol
 
 
 
-**Progress: 120 solutions**
+**Progress: 122 solutions**
 
 | ID   | Title                                                        | Solution                                                     | Difficulty | Related Topic                      |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ---------------------------------- |
@@ -26,6 +26,7 @@ All the code were written in **Python 2.7 or Python 3** . Each file contains sol
 | 48   | [Rotate Image](https://leetcode.com/problems/rotate-image/)  | [Python](./src/Rotate-Image)                                 | Medium     | Array                              |
 | 53   | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Python](./src/Maximum-Subarray)                             | Easy       | Greedy Algorithm                   |
 | 54   | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [Python](./src/Spiral-Matrix)                                | Medium     | Array                              |
+| 66   | [Plus One](https://leetcode.com/problems/plus-one/)          | [Python](./src/Plus-One)                                     | Easy       | Array                              |
 | 69   | [Sqrt(x)](https://leetcode.com/problems/sqrtx/)              | [Python](./src/Sqrt(x))                                      | Easy       | Binary Search                      |
 | 70   | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Python](./src/Climbing-Stairs)                              | Easy       | Dynamic Programming                |
 | 74   | [Search-a-2D-Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [Python](./src/Search-a-2D-Matrix)                           | Medium     | Array                              |
@@ -81,6 +82,7 @@ All the code were written in **Python 2.7 or Python 3** . Each file contains sol
 | 257  | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | [Python](./src/Binary-Tree-Paths)                            | Easy       | DFS                                |
 | 261  | [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/) | [Python](./src/Graph-Valid-Tree)                             | Medium     | DFS+Graph                          |
 | 269  | [Alien Dictionary](https://leetcode.com/problems/alien-dictionary/) | [Python](./src/Alien-Dictionary)                             | Hard       | Topological Sort                   |
+| 283  | [Move Zeroes](https://leetcode.com/problems/move-zeroes/)    | [Python](./src/Move-Zeroes)                                  | Easy       | Array                              |
 | 285  | [Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/) | [Python](./src/Inorder-Successor-in-BST)                     | Medium     | Binary Search Tree                 |
 | 300  | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [Python](./src/Longest-Increasing-Subsequence)               | Medium     | Dynamic Programming/Binary Search  |
 | 322  | [Coin Change](https://leetcode.com/problems/coin-change/)    | [Python](./src/Coin-Change)                                  | Medium     | Dynamic Programming                |
