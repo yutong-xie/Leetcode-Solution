@@ -5,7 +5,7 @@ All the code were written in **Python 2.7 or Python 3** . Each file contains sol
 
 
 
-**Progress: 122 solutions**
+**Progress: 124 solutions**
 
 | ID   | Title                                                        | Solution                                                     | Difficulty | Related Topic                      |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ---------------------------------- |
@@ -26,6 +26,8 @@ All the code were written in **Python 2.7 or Python 3** . Each file contains sol
 | 48   | [Rotate Image](https://leetcode.com/problems/rotate-image/)  | [Python](./src/Rotate-Image)                                 | Medium     | Array                              |
 | 53   | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Python](./src/Maximum-Subarray)                             | Easy       | Greedy Algorithm                   |
 | 54   | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [Python](./src/Spiral-Matrix)                                | Medium     | Array                              |
+| 56   | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [Python](./src/Merge-Intervals)                              | Medium     | Array                              |
+| 58   | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Python](./src/Length-of-Last-Word)                          | Easy       | String                             |
 | 66   | [Plus One](https://leetcode.com/problems/plus-one/)          | [Python](./src/Plus-One)                                     | Easy       | Array                              |
 | 69   | [Sqrt(x)](https://leetcode.com/problems/sqrtx/)              | [Python](./src/Sqrt(x))                                      | Easy       | Binary Search                      |
 | 70   | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Python](./src/Climbing-Stairs)                              | Easy       | Dynamic Programming                |
