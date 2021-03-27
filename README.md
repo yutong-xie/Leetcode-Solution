@@ -5,7 +5,7 @@ All the code were written in **Python 2.7, Python 3 or C++** . Each file contain
 
 
 
-**Progress: 135 solutions**
+**Progress: 145 solutions**
 
 | ID   | Title                                                        | Python Version                                               | C++ Version          | Difficulty | Related Topic                      |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | -------------------- | ---------- | ---------------------------------- |
@@ -32,10 +32,13 @@ All the code were written in **Python 2.7, Python 3 or C++** . Each file contain
 | 54   | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [Python](./python/Spiral-Matrix)                             |                      | Medium     | Array                              |
 | 56   | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [Python](./python/Merge-Intervals)                           |                      | Medium     | Array                              |
 | 58   | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Python](./python/Length-of-Last-Word)                       |                      | Easy       | String                             |
+| 62   | [Unique Paths](https://leetcode.com/problems/unique-paths/)  | [Python](./python/Unique-Paths)                              |                      | Medium     | Dynamic Programming                |
+| 63   | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [Python](./python/Unique-Paths-II)                           |                      | Medium     | Dynamic Programming                |
 | 64   | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [Python](./python/Minimun-Path-Sum)                          |                      | Medium     | Dynamic Programming                |
 | 66   | [Plus One](https://leetcode.com/problems/plus-one/)          | [Python](./python/Plus-One)                                  |                      | Easy       | Array                              |
 | 69   | [Sqrt(x)](https://leetcode.com/problems/sqrtx/)              | [Python](./python/Sqrt(x))                                   |                      | Easy       | Binary Search                      |
 | 70   | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Python](./python/Climbing-Stairs)                           |                      | Easy       | Dynamic Programming                |
+| 72   | [Edit Distance](https://leetcode.com/problems/edit-distance/) | [Python](./python/Edit-Distance)                             |                      | Hard       | Dynamic Programming                |
 | 74   | [Search-a-2D-Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [Python](./python/Search-a-2D-Matrix)                        |                      | Medium     | Array                              |
 | 76   | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [Python](./python/Minimum-Window-Substring)                  |                      | Hard       | Sliding Window                     |
 | 79   | [Word Search](https://leetcode.com/problems/word-search/)    | [Python](./python/Wrod-Search)                               |                      | Medium     | Backtracking                       |
@@ -71,6 +74,7 @@ All the code were written in **Python 2.7, Python 3 or C++** . Each file contain
 | 153  | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Python](./python/Find-Minimum-in-Rotated-Sorted-Array)      |                      | Medium     | Binary Search                      |
 | 155  | [Min Stack](https://leetcode.com/problems/min-stack/)        | [Python](./python/Min-Stack)                                 |                      | Easy       | Stack                              |
 | 160  | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Python](./python/Intersection-of-Two-Linked-Lists)          |                      | Easy       | Linked List                        |
+| 161  | [One Edit Distance](https://leetcode.com/problems/one-edit-distance/) | [Python](./python/One-Edit-Distance)                         |                      | Medium     | String                             |
 | 173  | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | [Python](./python/Binary-Search-Tree-Iteator)                |                      | Medium     | Binary Search Tree                 |
 | 187  | [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/) | [Python](./python/Repeated-DNA-Sequences)                    |                      | Medium     | Set/Array                          |
 | 188  | [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) | [Python](./python/Best-Time-to-But-and-Sell-Stock-IV)        |                      | Hard       | DP/ One pass                       |
@@ -89,6 +93,7 @@ All the code were written in **Python 2.7, Python 3 or C++** . Each file contain
 | 235  | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Python](./python/Lowest-Common-Ancestor-of-a-Binary-Search-Tree) |                      | Easy       | Binary Search Tree                 |
 | 236  | [Lowest-Common-Ancestor-of-a-Binary-Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [Python](./python/Lowest-Common-Ancestor-of-a-Binary-Tree)   |                      | Medium     | Parent Pointer/Tree                |
 | 242  | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | [Python](./python/Valid-Anagram)                             |                      | Easy       | Hashmap                            |
+| 243  | [Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance/) | [Python](./python/Shortest-Word-Distance)                    |                      | Easy       | Array                              |
 | 257  | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | [Python](./python/Binary-Tree-Paths)                         |                      | Easy       | DFS                                |
 | 261  | [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/) | [Python](./python/Graph-Valid-Tree)                          |                      | Medium     | DFS+Graph                          |
 | 269  | [Alien Dictionary](https://leetcode.com/problems/alien-dictionary/) | [Python](./python/Alien-Dictionary)                          |                      | Hard       | Topological Sort                   |
@@ -111,10 +116,12 @@ All the code were written in **Python 2.7, Python 3 or C++** . Each file contain
 | 448  | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [Python](./python/Find-All-Numbers-Disappeared-in-an-Array)  |                      | Easy       | Hahsmap                            |
 | 450  | [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | [Python](./python/Delete-Node-in-a-BST)                      |                      | Medium     | Binary Search Tree                 |
 | 452  | [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) | [Python](./python/Minimum-Number-of-Arrows-to-Burst-Ballons) |                      | Meidum     | Greedy/DP                          |
+| 461  | [Hamming Distance](https://leetcode.com/problems/hamming-distance/) | [Python](./python/Hamming-Distance)                          |                      | Easy       | Bit Manipulation                   |
 | 490  | [The Maze](https://leetcode.com/problems/the-maze/)          | [Python](./python/The-Maze)                                  |                      | Medium     | BFS                                |
 | 494  | [Target Sum](https://leetcode.com/problems/target-sum/)      | [Python](./python/Target-Sum)                                |                      | Medium     | Dynamic Programming                |
 | 515  | [Find Largest value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) | [Python](./python/Find-Largest-Value-in-Each-Tree-Row)       |                      | Medium     | BFS                                |
 | 516  | [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) | [Python](./python/Longest-Palindromic-Subsequence)           |                      | Medium     | Dynamic Programming                |
+| 540  | [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | [Python](./python/Single-Element-In-a-Sorted-Array])         |                      | Medium     | Binary Search on even index        |
 | 617  | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | [Python](./python/Merge-Two-Binary-Trees)                    |                      | Easy       | Binary Search Tree                 |
 | 621  | [Task Schedule](https://leetcode.com/problems/task-scheduler/) | [Python](./python/Task-Schedule)                             |                      | Medium     | Array                              |
 | 628  | [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) | [Python](./python/Maximum-Product-of-Three-Numbers)          |                      | Easy       | Array                              |
@@ -124,6 +131,7 @@ All the code were written in **Python 2.7, Python 3 or C++** . Each file contain
 | 701  | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | [Python](./python/Insert-into-a-Binary-Search-Tree)          |                      | Medium     | Binary Search Tree                 |
 | 703  | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | [Python](./python/Kth-Largest-Element-in-a-Stream)           |                      | Easy       | BST/Heapq                          |
 | 711  | [Number of Distinct Islands II](https://leetcode.com/problems/number-of-distinct-islands-ii/) | [Python](./python/Number-of-Distinct-Islands-II)             |                      | Medium     | DFS                                |
+| 724  | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [Python](./python/Find-Pivot-Index)                          |                      | Easy       | Prefix Sum                         |
 | 739  | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | [Python](./python/Daily-Temperatures)                        |                      | Meidum     | Stack                              |
 | 740  | [Binary Search](https://leetcode.com/problems/binary-search/) | [Python](./python/Binary-Search)                             |                      | Easy       | Binary Search                      |
 | 746  | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [Python](./python/Min-Cost-Climbing-Stairs)                  |                      | Easy       | Dynamic Programming                |
@@ -140,7 +148,9 @@ All the code were written in **Python 2.7, Python 3 or C++** . Each file contain
 | 986  | [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/) | [Python](./python/Interval-List-Intersections)               |                      | Medium     | Two pointers                       |
 | 994  | [Rotting Oranges]()                                          | [Python](./python/Rotting-Oranges)                           |                      | Medium     | BFS                                |
 | 1047 | [Remove All Adjacent Duplicated In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | [Python](./python/Remove-All-Adjcent-Duplicated-In-String)   |                      | Easy       | Stack                              |
+| 1064 | [Fixed Point](https://leetcode.com/problems/fixed-point/)    | [Python](./python/Fixed-Point)                               |                      | Easy       | Binary Search                      |
 | 1091 | [Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | [Python](./python/Shortest-Path-in-Binary-Matrix)            |                      | Meidum     | BFS                                |
+| 1228 | [Missing Number in Arithmetic Progression](https://leetcode.com/problems/missing-number-in-arithmetic-progression/) | [Python](./python/Missing-Number-In-Arithmetic-Progression)  |                      | Easy       | Binary Search                      |
 | 1239 | [Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/) | [Python](./python/Maximum-Length-of-a-Concatenated-String-with-Unique-Characters) |                      | Medium     | DFS                                |
 | 1293 | [Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/) | [Python](./python/Shortest-Path-in-a-Grid-with-Obstacles-Elimination) |                      | Hard       | BFS                                |
 | 1302 | [Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/) | [Python](./python/Deepest-Leaves-Sum)                        |                      | Medium     | BFS                                |
